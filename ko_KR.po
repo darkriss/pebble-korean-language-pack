@@ -1,0 +1,2043 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 34.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-17 13:51-0500\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Name: 한국어\n"
+"X-Generator: Poedit 1.8.7\n"
+"Language-Team: A.J\n"
+msgid " "
+msgstr " "
+
+msgid " - "
+msgstr " - "
+
+msgid " MIN. TO"
+msgstr "분 뒤"
+
+msgid "%.*s is not responding"
+msgstr "%.*s가 응답하지 않습니다"
+
+msgid "%A"
+msgstr "%A"
+
+msgid "%B "
+msgstr "%B "
+
+msgid "%B %d"
+msgstr "%d %B"
+
+msgid "%B %e"
+msgstr "%B %e일"
+
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "%H:%M:%S"
+msgstr "%H:%M:%S"
+
+msgid "%I:%M:%S %p"
+msgstr "%I:%M:%S %p"
+
+msgid "%R"
+msgstr "%R"
+
+msgid "%a %b %e %H:%M:%S %Y"
+msgstr "%Y년 %b %일 %H:%M:%S %a"
+
+msgid "%a, %R"
+msgstr "%R %a"
+
+msgid "%a, %l:%M %p"
+msgstr "%p %l:%M (%a)"
+
+msgid "%a: "
+msgstr "%a: "
+
+msgid "%b "
+msgstr "%b "
+
+msgid "%b %e, %R"
+msgstr "%b %e일, %R"
+
+msgid "%b %e, %l:%M %p"
+msgstr "%b %e일, %l:%M %p"
+
+msgid "%d"
+msgstr "%d"
+
+msgid "%d BPM"
+msgstr "%d PPM"
+
+msgid "%d Min"
+msgstr "%d min"
+
+msgid "%d,%03d"
+msgstr "%d.%03d"
+
+msgid "%d.%d"
+msgstr "%d,%d"
+
+msgid "%d:%d"
+msgstr "%d:%d"
+
+msgid "%dH"
+msgstr "%dH"
+
+msgid "%dM"
+msgstr "%dM"
+
+msgid "%e"
+msgstr "%e"
+
+msgid "%i°"
+msgstr "%i°"
+
+msgid "%i° - %s"
+msgstr "%i° - %s"
+
+msgid "%i° / %i°"
+msgstr "%i° / %i°"
+
+msgid "%i° / --°"
+msgstr "%i° / --°"
+
+msgid "%l:%M"
+msgstr "%l:%M"
+
+msgid "%l:%M %p"
+msgstr "%I:%M %p"
+
+msgid "%l:%M%p"
+msgstr "%I:%M%p"
+
+msgid "%lu H AGO"
+msgstr "%lu시 전"
+
+msgid "%lu MIN AGO"
+msgstr "%lu분 전"
+
+msgid "%lu hours ago"
+msgstr "%lu시간 전"
+
+msgid "%lu minute ago"
+msgstr "%lu분 전"
+
+msgid "%lu minutes ago"
+msgstr "%lu분 전"
+
+msgid "%m/%d"
+msgstr "%m/%d"
+
+msgid "%m/%d/%y"
+msgstr "%y/%m/%d"
+
+msgid "%p"
+msgstr "%p"
+
+msgid "%s - %s"
+msgstr "%s - %s"
+
+msgid "%s of sleep"
+msgstr "%s de sueño"
+
+msgid ""
+"%s%.*s is not responding.\n"
+"\n"
+"Open app?"
+msgstr ""
+"%s%.*s가 응답하지 않습니다.\n"
+"\n"
+"어플을 실행하시겠습니까?"
+
+msgid "%u Paired Phone"
+msgstr "%u 연결된 폰"
+
+msgid "%u Paired Phones"
+msgstr "%u 연결된 폰"
+
+msgid "%u Steps"
+msgstr "%u 걸음"
+
+msgid "%uH %uM Sleep"
+msgstr "%u시간 %u분 수면"
+
+msgid "--°"
+msgstr "--°"
+
+msgid "--° / %i°"
+msgstr "--° / %i°"
+
+msgid "--° / --°"
+msgstr "--° / --°"
+
+msgid "1 Minute"
+msgstr "1 Minuto"
+
+msgid "1 hour"
+msgstr "1시간"
+
+msgid "10 Min Before"
+msgstr "10 min antes"
+
+msgid "10 Minutes"
+msgstr "10 Minutos"
+
+msgid "10 minutes"
+msgstr "10분"
+
+msgid "12h"
+msgstr "12h"
+
+msgid "15 Min Before"
+msgstr "15 min antes"
+
+msgid "15 Seconds"
+msgstr "15 Segundos"
+
+msgid "15 minutes"
+msgstr "15분"
+
+msgid "24h"
+msgstr "24h"
+
+msgid "3 Minutes"
+msgstr "3 Minutos"
+
+msgid "3 Seconds"
+msgstr "3초"
+
+msgid "30 DAY"
+msgstr "30 DÍAS"
+
+msgid "30 DAY AVG"
+msgstr "MEDIA 30 DÍAS"
+
+msgid "30 Min Before"
+msgstr "30 min antes"
+
+msgid "30 minutes"
+msgstr "30분"
+
+msgid "5 Min Before"
+msgstr "5 min antes"
+
+msgid "5 Seconds"
+msgstr "5초"
+
+msgid "5 minutes"
+msgstr "5분"
+
+msgid "8 Seconds"
+msgstr "8초"
+
+msgid ": "
+msgstr ": "
+
+msgid "<Untitled>"
+msgstr "<제목 없음>"
+
+msgid "A good night's sleep goes a long way! Try to get more hours tonight."
+msgstr ""
+"¡Una buena noche de sueño puede ayudarte! Intenta dormir más horas esta "
+"noche."
+
+msgid "ABOVE AVG"
+msgstr "평균 이상"
+
+msgid "AM"
+msgstr "AM"
+
+msgid "AVG PACE"
+msgstr "RITMO MEDIO"
+
+msgid "AVG PACE (/KM)"
+msgstr "RITMO MEDIO (/KM)"
+
+msgid "AVG PACE (/MI)"
+msgstr "RITMO MEDIO (/MI)"
+
+msgid "About average"
+msgstr "무난했어요"
+
+msgid "About the same"
+msgstr "비슷합니다"
+
+msgid "Above avg"
+msgstr "Superior media"
+
+msgid "Active"
+msgstr "사용중"
+
+msgid "Active Calories"
+msgstr "Calorias activas"
+
+msgid "Activity Summary"
+msgstr "활동 분석"
+
+msgid ""
+"Add contacts in\n"
+"mobile app"
+msgstr ""
+"Añadir contactos\n"
+"en app móvil"
+
+msgid "Added"
+msgstr "Añadido"
+
+msgid ""
+"Airplane\n"
+"Mode Off"
+msgstr "비행기모드 끄기"
+
+msgid ""
+"Airplane\n"
+"Mode On"
+msgstr "비행기모드 켜기"
+
+msgid "Airplane Mode"
+msgstr "비행기 모드"
+
+msgid "Alarm"
+msgstr "알람"
+
+msgid "Alarm Deleted"
+msgstr "설정된 알람이 없습니다"
+
+msgid "Alarm dismissed"
+msgstr "알람이 해제되었습니다"
+
+msgid "Alarms"
+msgstr "알람"
+
+msgid "All Day"
+msgstr "종일"
+
+msgid "All day"
+msgstr "종일"
+
+msgid "Allow All Notifications"
+msgstr "알림 허용"
+
+msgid "Allow Phone Calls"
+msgstr "전화 알림 허용"
+
+msgid "Allow Phone Calls Only"
+msgstr "전화 알림만 허용"
+
+msgid "Ambient Sensor"
+msgstr "조도 센서"
+
+msgid "An hour ago"
+msgstr "한 시간 전"
+
+msgid "Appears on your watchface when an event is about to start."
+msgstr "Appears on your watchface when an event is about to start."
+
+msgid "Apr"
+msgstr "4월"
+
+msgid "April"
+msgstr "4월"
+
+msgid "Aren't naps great? You knocked out for %dH %dM!"
+msgstr "잘 잤나요? %dH %dM 동안 기절했네요!"
+
+msgid "Aug"
+msgstr "8월"
+
+msgid "August"
+msgstr "8월"
+
+msgid "Automatic"
+msgstr "자동"
+
+msgid "Avg HR"
+msgstr "평균 ❤ "
+
+msgid "Avg Pace"
+msgstr "평균 페이스"
+
+msgid "Awesome!"
+msgstr "멋지네요!"
+
+msgid "BELOW AVG"
+msgstr "평균 이하"
+
+msgid "BPM"
+msgstr "PBM"
+
+msgid "BT Address"
+msgstr "BT 주소"
+
+msgid "Back Button"
+msgstr "이전 버튼"
+
+msgid "Background App"
+msgstr "백그라운드 앱"
+
+msgid "Backlight"
+msgstr "백라이트"
+
+msgid "Basic Alarm"
+msgstr "기본 알람"
+
+msgid "Below avg"
+msgid "평균 이하"
+
+msgid "Blinding"
+msgstr "최대 밝기"
+
+msgid "Bluetooth"
+msgstr "블루투스"
+
+msgid ""
+"Bluetooth on your phone is in a high power state. Please report this using "
+"'Support' and reboot your phone."
+msgstr ""
+"폰의 블루투스가 고전력 소비상태입니다. 'Support'를 통해 보고해주시고 폰을 리"
+"부팅 해주세요."
+
+msgid "Bootloader"
+msgstr "부트로더"
+
+msgid "Broadcaster"
+msgstr "방송사"
+
+msgid "CALORIES"
+msgstr "칼로리"
+
+msgid "CONSISTENT!"
+msgstr "변함없네요!"
+
+msgid "CUSTOM"
+msgstr "맞춤 설정"
+
+msgid "Calendar"
+msgstr "달력"
+
+msgid "Calendar Aware"
+msgstr "일정 방해 금지"
+
+msgid "Calendar Aware enables Quiet Time automatically during calendar events."
+msgstr "Calendar Aware enables Quiet Time automatically during calendar events."
+
+msgid "Call Accepted"
+msgstr "전화 받음"
+
+msgid "Call Back"
+msgstr "다시 걸기"
+
+msgid "Call Declined"
+msgstr "전화 거절됨"
+
+msgid "Call Ended"
+msgstr "전화 종료"
+
+msgid "Call me"
+msgstr "전화주세요"
+
+msgid "Call you later"
+msgstr "나중에 전화할께요"
+
+msgid "Can't connect. Relaunch Pebble Time app on phone."
+msgstr "연결할 수 없습니다. 폰에 설치된 Pebble Time 앱을 재실행해주세요"
+
+msgid "Can't stop, won't stop 👊"
+msgstr "멈출수도 없고, 멈추고 싶지 않아요👊"
+
+msgid "Canned messages"
+msgstr "준비된 메세지"
+
+msgid "Center Button"
+msgstr "가운데 버튼"
+
+msgid "Certification"
+msgstr "인증"
+
+msgid "Change Days"
+msgstr "날짜 변경"
+
+msgid "Change Schedule"
+msgstr "스케줄 변경"
+
+msgid "Change Time"
+msgstr "시간 변경"
+
+msgid "Charging"
+msgstr "충전중"
+
+msgid "Check bluetooth connection"
+msgstr "블루투스 연결 검사"
+
+msgid "Check something first."
+msgstr "C83/last by A.J"
+
+msgid "Clear All"
+msgstr "모두 삭제"
+
+msgid "Clear history?"
+msgstr "모두 삭제하시겠습니까?"
+
+msgid "Completed"
+msgstr "완료됨"
+
+msgid "Confirm Alignment"
+msgstr "정렬 확인"
+
+msgid ""
+"Congratulations - you're having a super active day! Activity makes you more "
+"focused and creative. How do you feel?"
+msgstr ""
+"축하합니다 - 상당히 활동적이네요! 어때요? 움직일수록 좀 더 집중력과 창의력이 "
+"커지죠?"
+
+msgid "Connected"
+msgstr "연결됨"
+
+msgid "Connection"
+msgstr "연결"
+
+msgid "Convert to Basic Alarm"
+msgstr "기본알람으로 변경"
+
+msgid "Convert to Smart Alarm"
+msgstr "스마트 알람으로 변경"
+
+msgid "Core dump and reboot?"
+msgstr "코어덤프하고 리부팅합니까?"
+
+msgid "Custom"
+msgstr "맞춤 설정"
+
+msgid "DEEP SLEEP"
+msgstr "숙면"
+
+msgid "DISTANCE"
+msgstr "거리"
+
+msgid "DISTANCE (KM)"
+msgstr "거리 (KM)"
+
+msgid "DISTANCE (MI)"
+msgstr "거리 (MI)"
+
+msgid "DURATION"
+msgstr "기간"
+
+msgid "Date & Time"
+msgstr "날짜와 시간"
+
+msgid "Dec"
+msgstr "12월"
+
+msgid "December"
+msgstr "12월"
+
+msgid "Default"
+msgstr "기본값"
+
+msgid "Delete"
+msgstr "삭제"
+
+msgid "Deleted"
+msgstr "삭제됨"
+
+msgid "Dictation is not available."
+msgstr "받아쓰기를 사용할 수 없습니다."
+
+msgid "Did your Pebble reset?"
+msgstr "페블이 초기화됐습니까?"
+
+msgid "Didn’t that walk feel good?"
+msgstr "걸으니 기분이 좋죠?"
+
+msgid "Disable"
+msgstr "사용 안함"
+
+msgid "Disable Airplane Mode to connect."
+msgstr "연결을 위해 비행기 모드 해제"
+
+msgid "Disabled"
+msgstr "꺼짐"
+
+msgid "Disabled (Plugged In)"
+msgstr "충전 중, 꺼짐"
+
+msgid "Disabling..."
+msgstr "끄는 중..."
+
+msgid "Disconnected"
+msgstr "연결 끊김"
+
+msgid "Dismiss"
+msgstr "삭제"
+
+msgid "Dismiss All"
+msgstr "모두 삭제"
+
+msgid "Dismissed"
+msgstr "삭제됨"
+
+msgid "Display"
+msgstr "화면"
+
+msgid "Distance"
+msgstr "거리"
+
+msgid "Do you feel more energetic, sharper or optimistic? Being active helps!"
+msgstr "활기차고 명석하며 긍정적이고 싶나요? 움직이세요!"
+
+msgid "Do you want to shut down?"
+msgstr "전원을 끕니다"
+
+msgid "Done"
+msgstr "완료"
+
+msgid "Down Button"
+msgstr "아래 버튼"
+
+msgid "ENDURANCE"
+msgstr "지구력"
+
+msgid "EVERY DAY"
+msgstr "매일"
+
+msgid "Edit"
+msgstr "편집"
+
+msgid "Emoji"
+msgstr "그림 문자"
+
+msgid "Enable"
+msgstr "사용"
+
+msgid "Enable Pebble Health in the mobile app to track workouts"
+msgstr "경로를 추적하기 위해 폰에서 헬스기능을 사용함으로 설정하세요"
+
+msgid "Enable heart rate monitoring in the mobile app"
+msgstr "폰에서 심박기능 모니터 기능을 사용함으로 설정하세요"
+
+msgid "Enabling..."
+msgstr "켜는 중..."
+
+msgid "End"
+msgstr "끝"
+
+msgid "End Quiet Time"
+msgstr "방해 금지 해제"
+
+msgid "End Quiet Time?"
+msgstr "방해 금지 해제?"
+
+msgid "End Workout"
+msgstr "운동 경로 종료"
+
+msgid "End Workout?"
+msgstr "운동 경로를 종료할까요?"
+
+msgid "Endorphin rush?"
+msgstr "엔돌핀이 솟구칩니까?"
+
+msgid "Endurance"
+msgstr "지구력"
+
+msgid "Error occurred. Try again."
+msgstr "오류입니다. 다시 시도하세요"
+
+msgid "Every Day"
+msgstr "매일"
+
+msgid "FAT BURN"
+msgstr "지방 태우기"
+
+msgid "Factory Reset"
+msgstr "공장 초기화"
+
+msgid "Failed"
+msgstr "실패"
+
+msgid "Fat Burn"
+msgstr "지방 태우기"
+
+msgid "Feb"
+msgstr "2월"
+
+msgid "February"
+msgstr "2월"
+
+msgid "Feelin' good? You slept for %dH %dM. Nothing can stop you now 👊"
+msgstr "기분 좀 어때요? %dH %dM 잤으니 뭘해도 이젠 거뜬 할겁니다 👊"
+
+msgid "Feelin' hot? Cause you're on 🔥"
+msgstr "덥죠? 불붙었으니 뜨거울수 밖에요 🔥"
+
+msgid "Filter"
+msgstr "필터"
+
+msgid "Firmware"
+msgstr "펌웨어"
+
+msgid ""
+"For activity and sleep tracking, press up from your watch face.\n"
+"\n"
+"Press down for current and future events.\n"
+"\n"
+"Read more at blog.pebble.com"
+msgstr ""
+"For activity and sleep tracking, press up from your watch face.\n"
+"\n"
+"Press down for current and future events.\n"
+"\n"
+"Read more at blog.pebble.com"
+
+msgid "Forget"
+msgstr "지움"
+
+msgid "Fri"
+msgstr "금"
+
+msgid "Friday"
+msgstr "금요일"
+
+msgid "Fridays"
+msgstr "금요일"
+
+msgid "Fully Charged"
+msgstr "충전 완료"
+
+msgid "GREAT DAY TODAY"
+msgstr "좋은 날입니다"
+
+msgid "Gettin' your step on?"
+msgstr "Gettin' your step on?"
+
+msgid "Good job! You walked %d steps today–do it again tomorrow."
+msgstr "수고했습니다! 오늘 %d 걸음 걸었네요. 내일도 또 해요."
+
+msgid ""
+"Good morning! You slept for %dH %dM. Consistency is key; keep doing what "
+"you're doing 😃."
+msgstr ""
+"안뇽?! %dH %dM 잤네요. 뭐든 꾸준히 하는게 최고죠 😃"
+
+msgid ""
+"Good mornin’. You slept for %dH %dM. Every good day begins with a solid "
+"night’s sleep...kinda like that one 😉 Keep it up!"
+msgstr ""
+"좋은 아침입니다. %dH %dM 잤네요. 잠을 잘자야 하루가 거뜬하답니다 😉 계속 분발하세요!"
+
+msgid ""
+"Goooood morning! You slept for %dH %dM which is %d%% below your typical. Go "
+"crush your day and then get back in bed 😉"
+msgstr ""
+"으음.. 평소에 비해 %dH %dM 밖에 자질 못했군요.  좀 더 주무세요 😉"
+
+msgid ""
+"Groggy? You slept for %dH %dM which is %d%% below your typical. Sleep is "
+"important for everything you do-try getting more shut eye tonight!"
+msgstr ""
+"힘들죠? %dH %dM 이면 평소보다 너무 못잤네요. 오늘 밤엔 일찍 주무세요!"
+
+msgid "H"
+msgstr "H"
+
+msgid "HEART RATE"
+msgstr "심박수"
+
+msgid "Hardware"
+msgstr "하드웨어"
+
+msgid "Health"
+msgstr "건강"
+
+msgid "Heart Rate Not Shared"
+msgstr "Heart Rate Not Shared"
+
+msgid "Hey lightning bolt, way to go!"
+msgstr "Hey lightning bolt, way to go!"
+
+msgid ""
+"Hey rockstar 🎤 You've walked %d steps today which is %d%% above your "
+"typical. Nothing can stop you!"
+msgstr ""
+"Hey rockstar 🎤 You've walked %d steps today which is %d%% above your "
+"typical. Nothing can stop you!"
+
+msgid ""
+"Hey sleepy head. You slept for %dH %dM which is %d%% below your typical. Try "
+"to get more tonight!"
+msgstr ""
+"Hey sleepy head. You slept for %dH %dM which is %d%% below your typical. Try "
+"to get more tonight!"
+
+msgid "Hey speedster, we can barely keep up!"
+msgstr "Hey speedster, we can barely keep up!"
+
+msgid "High"
+msgstr "강하게"
+
+msgid "Horizontal Alignment"
+msgstr "수평 정렬"
+
+msgid ""
+"How are you feeling? Have you noticed extra focus, better mood or extra "
+"energy? You have been sleeping great this week! Keep it up!"
+msgstr ""
+"How are you feeling? Have you noticed extra focus, better mood or extra "
+"energy? You have been sleeping great this week! Keep it up!"
+
+msgid "I didn't nap!?"
+msgstr "I didn't nap!?"
+
+msgid "I feel fabulous!"
+msgstr "꽤 좋습니다!"
+
+msgid "I feel great!"
+msgstr "괜찮습니다!"
+
+msgid "I need more"
+msgstr "쫌만 더"
+
+msgid "I'm still tired"
+msgstr "여전히 피곤합니다"
+
+msgid "IN %lu H"
+msgstr "%lu시간 후"
+
+msgid "IN %lu MIN"
+msgstr "%lu분 후"
+
+msgid "INTENSITY"
+msgstr "조명 세기"
+
+msgid "In %lu hour"
+msgstr "%lu시간 전"
+
+msgid "In %lu hours"
+msgstr "%lu시간 전"
+
+msgid "In %lu minute"
+msgstr "%lu분 전"
+
+msgid "In %lu minutes"
+msgstr "%lu분 전"
+
+msgid "In 15 minutes"
+msgstr "15 minutos"
+
+msgid "Incoming Calls"
+msgstr "전화 수신"
+
+msgid "Incompatible JS"
+msgstr "비호환 JS"
+
+msgid "Information"
+msgstr "정보"
+
+msgid "Intensity"
+msgstr "조명 세기"
+
+msgid "Intercom"
+msgstr "Intercom"
+
+msgid "Interruptions"
+msgstr "방해"
+
+msgid ""
+"It's a new day! You slept for %dH %dM which is %d%% below your typical. It's "
+"not your best, but there's always tonight."
+msgstr ""
+"It's a new day! You slept for %dH %dM which is %d%% below your typical. It's "
+"not your best, but there's always tonight."
+
+msgid "It's great that you're keeping a consistent sleep routine!"
+msgstr "규칙적인 수면을 유지하네요, 대단합니다!"
+
+msgid "Jackhammer"
+msgstr "드릴"
+
+msgid "Jan"
+msgstr "1월"
+
+msgid "January"
+msgstr "1월"
+
+msgid "Jul"
+msgstr "7월"
+
+msgid "July"
+msgstr "7월"
+
+msgid "Jun"
+msgstr "6월"
+
+msgid "June"
+msgstr "6월"
+
+msgid "KM"
+msgstr "KM"
+
+msgid "KM/H"
+msgstr "KM/H"
+
+msgid "Keep it up!"
+msgstr "Keep it up!"
+
+msgid "Keepin' that heart healthy! ❤"
+msgstr "Keepin' that heart healthy! ❤"
+
+msgid ""
+"Killer job! You've walked %d steps today which is %d%% above your typical. "
+"Do it again tomorrow and you'll be on top of the world!"
+msgstr ""
+"Killer job! You've walked %d steps today which is %d%% above your typical. "
+"Do it again tomorrow and you'll be on top of the world!"
+
+msgid "LE Only"
+msgstr "LE 단독"
+
+msgid "Language"
+msgstr "언어"
+
+msgid "Larger"
+msgstr "크게"
+
+msgid "Last updated"
+msgstr "최근 업데이트됨"
+
+msgid "Later today"
+msgstr "Later today"
+
+msgid "Legal"
+msgstr "법적 고지"
+
+msgid ""
+"Let us wake you in your lightest sleep so you're fully refreshed! Smart "
+"Alarm wakes you up to 30min before your alarm."
+msgstr ""
+"Let us wake you in your lightest sleep so you're fully refreshed! Smart "
+"Alarm wakes you up to 30min before your alarm."
+
+msgid "Limit reached."
+msgstr "제한점 도달"
+
+msgid "Listening"
+msgstr "청취 중"
+
+msgid "Low"
+msgstr "Low"
+
+msgid "M"
+msgstr "M"
+
+msgid "MI"
+msgstr "MI"
+
+msgid "MPH"
+msgstr "MPH"
+
+msgid "Manual"
+msgstr "수동으로 활성화"
+
+msgid "Mar"
+msgstr "3월"
+
+msgid "March"
+msgstr "3월"
+
+msgid "May"
+msgstr "5월"
+
+msgid "Medium"
+msgstr "보통"
+
+msgid "Missed that. Try again."
+msgstr "Missed that. Try again."
+
+msgid ""
+"Mmmm...what a night. You slept for %dH %dM which is %d%% above your typical. "
+"That's gotta feel good!"
+msgstr ""
+"Mmmm...what a night. You slept for %dH %dM which is %d%% above your typical. "
+"That's gotta feel good!"
+
+msgid "Mon"
+msgstr "월"
+
+msgid "Monday"
+msgstr "월요일"
+
+msgid "Mondays"
+msgstr "월요일"
+
+msgid ""
+"Motion\n"
+"Backlight Off"
+msgstr "Iluminación por movimiento OFF"
+
+msgid ""
+"Motion\n"
+"Backlight On"
+msgstr ""
+"Motion\n"
+"Backlight On"
+
+msgid "Motion Backlight"
+msgstr "Motion Backlight"
+
+msgid "Motion Enabled"
+msgstr "움직임 감지"
+
+msgid "Music"
+msgstr "음악"
+
+msgid "Mute %s"
+msgstr "Mute %s"
+
+msgid "Mute All Notifications"
+msgstr "모든 알림 소리끔"
+
+msgid "Mute Always"
+msgstr "항상 무음"
+
+msgid "Mute Weekdays"
+msgstr "Mute Weekdays"
+
+msgid "Mute Weekends"
+msgstr "Mute Weekends"
+
+msgid "Muted"
+msgstr "Muted"
+
+msgid "NOT VERY ACTIVE"
+msgstr "비활동적"
+
+msgid "NOW"
+msgstr "지금"
+
+msgid "Nap Time"
+msgstr "낮잠 시간"
+
+msgid "New Alarm"
+msgstr "새로운 알람"
+
+msgid "New Smart Alarm"
+msgstr "New Smart Alarm"
+
+msgid ""
+"Nice moves! You've walked %d steps today which is %d%% above your typical. "
+"Crush it again tomorrow 😀"
+msgstr ""
+"Nice moves! You've walked %d steps today which is %d%% above your typical. "
+"Crush it again tomorrow 😀"
+
+msgid "No"
+msgstr "아니오"
+
+msgid "No LE"
+msgstr "LE 제외"
+
+msgid "No background apps"
+msgstr "백그라운드 앱 없음"
+
+msgid "No events"
+msgstr "이벤트 없음"
+
+msgid ""
+"No internet\n"
+"connection"
+msgstr ""
+"인터넷\n"
+"끊어짐"
+
+msgid "No internet connection"
+msgstr "인터넷 연결 안됨"
+
+msgid ""
+"No location information available. To see weather, add locations in your "
+"Pebble mobile app."
+msgstr ""
+"No location information available. To see weather, add locations in your "
+"Pebble mobile app."
+
+msgid "No notifications"
+msgstr "알림 없음"
+
+msgid ""
+"No sleep data,\n"
+"wear your watch\n"
+"to sleep"
+msgstr ""
+"No sleep data,\n"
+"wear your watch\n"
+"to sleep"
+
+msgid "None"
+msgstr "없음"
+
+msgid "Not connected"
+msgstr "연결 안됨"
+
+msgid "Not feeling it"
+msgstr "모르겠습니다"
+
+msgctxt "NotifVibe"
+msgid "Disabled"
+msgstr "Desactivadas"
+
+msgctxt "NotifVibe"
+msgid "High"
+msgstr "강하게"
+
+msgctxt "NotifVibe"
+msgid "Low"
+msgstr "약하게"
+
+msgctxt "NotifVibe"
+msgid "Medium"
+msgstr "중간"
+
+msgid "Notifications"
+msgstr "알림"
+
+msgid "Nov"
+msgstr "11월"
+
+msgid "November"
+msgstr "11월"
+
+msgid "Now"
+msgstr "Now"
+
+msgid "Now Discoverable"
+msgstr "검색 가능"
+
+msgid "Nudge Nudge"
+msgstr "톡톡"
+
+msgid "OFF"
+msgstr "꺼짐"
+
+msgid "ON"
+msgstr "켜짐"
+
+msgid "ON AVG"
+msgstr "ON AVG"
+
+msgid "ONCE"
+msgstr "한번"
+
+msgid "Oct"
+msgstr "10월"
+
+msgid "October"
+msgstr "10월"
+
+msgid "Of napping"
+msgstr "낮잠의 일종"
+
+msgid "Off"
+msgstr "꺼짐"
+
+msgid "Ok"
+msgstr "확인"
+
+msgid "On"
+msgstr "켜짐"
+
+msgid "On avg"
+msgstr "On avg"
+
+msgid "Once"
+msgstr "한 번"
+
+msgid "Open App"
+msgstr "앱 실행"
+
+msgid "Open Pin"
+msgstr "핀 열기"
+
+msgid "Open Workout"
+msgstr "운동 경로 열기"
+
+msgid ""
+"Open favorite apps quickly with a long button press from your watchface."
+msgstr "Open favorite apps quickly with a long button press from your watchface."
+
+msgid "Open the Pebble app on your phone to connect."
+msgstr "연결을 위해 스마트폰의 페블 앱을 열어 주세요."
+
+msgid "PACE"
+msgstr "페이스"
+
+msgid "PACE (/KM)"
+msgstr "페이스 (/KM)"
+
+msgid "PACE (/MI)"
+msgstr "페이스 (/MI)"
+
+msgid "PERFORMANCE"
+msgstr "빡쎄게"
+
+msgid "PM"
+msgstr "PM"
+
+msgid "Pair?"
+msgstr "연결하시겠습니까?"
+
+msgid "Pairing Instructions"
+msgstr "페어링 방법"
+
+msgid "Pebble Updated!"
+msgstr "Pebble이 업데이트 되었습니다!"
+
+msgid "Perform factory reset?"
+msgstr "초기화 하시겠습니까?"
+
+msgid "Performance"
+msgstr "빡쎄게"
+
+msgid "Postpone"
+msgstr "연기"
+
+msgid "Powered 'til %s"
+msgstr "%s까지 사용가능합니다"
+
+msgid ""
+"Press and hold the Back button from a notification to turn Quiet Time on or "
+"off."
+msgstr ""
+"Press and hold the Back button from a notification to turn Quiet Time on or "
+"off."
+
+msgid "Pulse"
+msgstr "점점 세게"
+
+msgid "Quick Launch"
+msgstr "단축키"
+
+msgid "Quick View"
+msgstr "Quick View"
+
+msgid ""
+"Quickly dismiss all notifications by holding the Select button for 2 seconds "
+"from any incoming notification."
+msgstr ""
+"Quickly dismiss all notifications by holding the Select button for 2 seconds "
+"from any incoming notification."
+
+msgid "Quiet All Notifications"
+msgstr "모든 알림 끄기"
+
+msgid "Quiet Time"
+msgstr "방해 금지"
+
+msgid ""
+"Quiet Time\n"
+"Ended"
+msgstr "방해 금지 해제"
+
+msgid ""
+"Quiet Time\n"
+"Started"
+msgstr "방해 금지 설정"
+
+msgctxt "QuietTime"
+msgid "Disabled"
+msgstr "해제됨"
+
+msgctxt "QuietTime"
+msgid "Enabled"
+msgstr "사용함"
+
+msgid "RESTING"
+msgstr "휴식"
+
+msgid "Recovery"
+msgstr "복구용 펌웨어"
+
+msgid "Recurring"
+msgstr "반복"
+
+msgid ""
+"Refreshed? You slept for %dH %dM which is %d%% above your typical. Go tackle "
+"your day 😃."
+msgstr ""
+"Refreshed? You slept for %dH %dM which is %d%% above your typical. Go tackle "
+"your day 😃."
+
+msgid ""
+"Remember to also forget your Pebble's Bluetooth connection from your phone."
+msgstr ""
+"Remember to also forget your Pebble's Bluetooth connection from your phone."
+msgstr ""
+
+msgid "Reminder"
+msgstr "알림"
+
+msgid "Reminders"
+msgstr "알림"
+
+msgid "Remove"
+msgstr "제거"
+
+msgid "Removed"
+msgstr "제거됨"
+
+msgid "Reply with Voice"
+msgstr "음성으로 답하기"
+
+msgid "Resetting..."
+msgstr "초기화 중..."
+
+msgid "Resting is fine, but try to recover and step it up tomorrow!"
+msgstr "늘어지지 말고 내일은 한 단계 더 나아가세요!"
+
+msgid ""
+"Rise and shine! You slept for %dH %dM which is %d%% above your typical. Do "
+"it again tonight, sleep master."
+msgstr ""
+"Rise and shine! You slept for %dH %dM which is %d%% above your typical. Do "
+"it again tonight, sleep master."
+
+msgid "Run"
+msgstr "Run"
+
+msgid ""
+"Run\n"
+"Detected"
+msgstr ""
+"Run\n"
+"Detected"
+
+msgid "Run %s instead of %s as the background app?"
+msgstr "%s을 %s 대신 백그라운드 앱으로 설정하시겠습니까?"
+
+msgid "SLEEP SESSION"
+msgstr "SLEEP SESSION"
+
+msgid "SMTWTFS"
+msgstr "SMTWTFS"
+
+msgid "SPEED"
+msgstr "속도"
+
+msgid "SPEED (KM/H)"
+msgstr "속도 (KM/H)"
+
+msgid "SPEED (MPH)"
+msgstr "속도 (MPH)"
+
+msgid ""
+"START PLAYBACK\n"
+"ON YOUR PHONE"
+msgstr ""
+"START PLAYBACK\n"
+"ON YOUR PHONE"
+
+msgid "STARTS "
+msgstr "시작 "
+
+msgid "STEPS"
+msgstr "걸음수"
+
+msgid "Sat"
+msgstr "토"
+
+msgid "Saturday"
+msgstr "토요일"
+
+msgid "Saturdays"
+msgstr "토요일"
+
+msgid "Screen Alignment"
+msgstr "화면 정렬"
+
+msgid "See details..."
+msgstr "자세히 보기..."
+
+msgid "Select Contact"
+msgstr "수신자를 선택하세요"
+
+msgid "Select to confirm alignment changes"
+msgstr "선택키를 눌러 변경사항을 적용합니다"
+
+msgid "Send Text"
+msgstr "문자 보내기"
+
+msgid "Sep"
+msgstr "9월"
+
+msgid "September"
+msgstr "9월"
+
+msgid "Serial"
+msgstr "일련번호"
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "Share heart rate?"
+msgstr "Share heart rate?"
+
+msgid "Sharing Heart Rate"
+msgstr "Sharing Heart Rate"
+
+msgid "Sharing Heart Rate ❤"
+msgstr "Sharing Heart Rate ❤"
+
+msgid "Shut Down"
+msgstr "종료"
+
+msgid "Sleep Summary"
+msgstr "수면 분석"
+
+msgid "Smaller"
+msgstr "작게"
+
+msgid "Smart Alarm"
+msgstr "스마트 알람"
+
+msgid "Snooze"
+msgstr "미루기"
+
+msgid "Snooze Delay"
+msgstr "재알림 간격"
+
+msgid "Snooze delay set to %d minutes"
+msgstr "재알림 간격을 %d분으로 설정"
+
+msgid "Snooze for %d minutes"
+msgstr "%d분 뒤 다시 알림"
+
+msgid "Snoozed"
+msgstr "이랄끼가 -__-)^"
+
+msgid ""
+"Someone's on the move 👊 You walked %d steps today; keep doing what you're "
+"doing!"
+msgstr "Someone's on the move 👊 You walked %d steps today; keep doing what you're "
+"doing!"
+
+msgid "Sports"
+msgstr "스포츠"
+
+msgid "Stand-By Mode"
+msgstr "대기 모드"
+
+msgid "Standard - High"
+msgstr "표준 - 강하게"
+
+msgid "Standard - Low"
+msgstr "표준 - 약하게"
+
+msgid "Standard - Medium"
+msgstr "표준 - 중간"
+
+msgid "Start"
+msgstr "시작"
+
+msgid "Start Quiet Time"
+msgstr "방해 금지 설정"
+
+msgid "Start Quiet Time?"
+msgstr "방해 금지 설정?"
+
+msgid "Start Time"
+msgstr "시작 시간"
+
+msgid "Steps"
+msgstr "걸음수"
+
+msgid ""
+"Still sweating? Your workout is active and will be ended soon. Open the "
+"workout to keep it going."
+msgstr ""
+"Still sweating? Your workout is active and will be ended soon. Open the "
+"workout to keep it going."
+
+msgid "Stop Sharing Heart Rate"
+msgstr "Stop Sharing Heart Rate"
+
+msgid "Sun"
+msgstr "일"
+
+msgid "Sunday"
+msgstr "일요일"
+
+msgid "Sundays"
+msgstr "일요일"
+
+msgid "System"
+msgstr "시스템"
+
+msgid "TIMEOUT"
+msgstr "시간초과"
+
+msgid "TOMORROW"
+msgstr "내일"
+
+msgid "TYPICAL %s"
+msgstr "일반적 %s"
+
+msgid "Text Size"
+msgstr "글자 크기"
+
+msgid "Thanks!"
+msgstr "감쏴!"
+
+msgid ""
+"That's a lot of sheep you just counted! You slept for %dH %dM which is %d%% "
+"above your typical. Boom shakalaka."
+msgstr ""
+"That's a lot of sheep you just counted! You slept for %dH %dM which is %d%% "
+"above your typical. Boom shakalaka."
+
+msgid ""
+"The core dump was created successfully. Please create a support request as "
+"usual."
+msgstr ""
+"The core dump was created successfully. Please create a support request as "
+"usual."
+
+msgid ""
+"This app requires Pebble Health to work. Enable Health in the Pebble mobile "
+"app to continue."
+msgstr ""
+"This app requires Pebble Health to work. Enable Health in the Pebble mobile "
+"app to continue."
+
+msgid "This app requires a newer version of the Pebble firmware."
+msgstr "This app requires a newer version of the Pebble firmware."
+
+msgid ""
+"This feature requires Pebble Health to work. Enable Health in the Pebble "
+"mobile app to continue."
+msgstr ""
+"This feature requires Pebble Health to work. Enable Health in the Pebble "
+"mobile app to continue."
+
+msgid "Thu"
+msgstr "목"
+
+msgid "Thursday"
+msgstr "목요일"
+
+msgid "Thursdays"
+msgstr "목요일"
+
+msgid "Time Format"
+msgstr "시간 형식"
+
+msgid "Timeline"
+msgstr "타임라인"
+
+msgid "Timeline Past"
+msgstr "지난 타임라인"
+
+msgid "Timeout"
+msgstr "조명 끄기"
+
+msgid "Timezone"
+msgstr "시간대"
+
+msgid "Timezone Source"
+msgstr "Timezone Source"
+
+msgid "Timing"
+msgstr "Timing"
+
+msgctxt "TmplStringPlur"
+msgid " d"
+msgstr " d"
+
+msgctxt "TmplStringPlur"
+msgid " days"
+msgstr " 일"
+
+msgctxt "TmplStringPlur"
+msgid " hours"
+msgstr " 시"
+
+msgctxt "TmplStringPlur"
+msgid " hr"
+msgstr " h"
+
+msgctxt "TmplStringPlur"
+msgid " min"
+msgstr " min"
+
+msgctxt "TmplStringPlur"
+msgid " minutes"
+msgstr " 분"
+
+msgctxt "TmplStringPlur"
+msgid " mo"
+msgstr " M"
+
+msgctxt "TmplStringPlur"
+msgid " months"
+msgstr " 개월"
+
+msgctxt "TmplStringPlur"
+msgid " sec"
+msgstr " s"
+
+msgctxt "TmplStringPlur"
+msgid " seconds"
+msgstr " 초"
+
+msgctxt "TmplStringPlur"
+msgid " years"
+msgstr " 년"
+
+msgctxt "TmplStringPlur"
+msgid " yr"
+msgstr " yr"
+
+msgctxt "TmplStringSep"
+msgid " "
+msgstr " "
+
+msgctxt "TmplStringSep"
+msgid ", "
+msgstr ", "
+
+msgctxt "TmplStringSep"
+msgid ", and "
+msgstr ", and "
+
+msgctxt "TmplStringSep"
+msgid ":"
+msgstr ":"
+
+msgctxt "TmplStringSing"
+msgid " d"
+msgstr " d"
+
+msgctxt "TmplStringSing"
+msgid " day"
+msgstr " 일"
+
+msgctxt "TmplStringSing"
+msgid " hour"
+msgstr " 시"
+
+msgctxt "TmplStringSing"
+msgid " hr"
+msgstr " hr"
+
+msgctxt "TmplStringSing"
+msgid " min"
+msgstr " min"
+
+msgctxt "TmplStringSing"
+msgid " minute"
+msgstr " 분"
+
+msgctxt "TmplStringSing"
+msgid " mo"
+msgstr " mo"
+
+msgctxt "TmplStringSing"
+msgid " month"
+msgstr " 월"
+
+msgctxt "TmplStringSing"
+msgid " sec"
+msgstr " s"
+
+msgctxt "TmplStringSing"
+msgid " second"
+msgstr " 초"
+
+msgctxt "TmplStringSing"
+msgid " year"
+msgstr " 년"
+
+msgctxt "TmplStringSing"
+msgid " yr"
+msgstr " yr"
+
+msgid "Today"
+msgstr "오늘"
+
+msgid "Tomorrow"
+msgstr "내일"
+
+msgid ""
+"Track your steps, sleep, and more! Enable Pebble Health in the mobile app."
+msgstr ""
+"Track your steps, sleep, and more! Enable Pebble Health in the mobile app."
+
+msgid "Tue"
+msgstr "화"
+
+msgid "Tuesday"
+msgstr "화요일"
+
+msgid "Tuesdays"
+msgstr "화요일"
+
+msgid "Turn Off Airplane Mode?"
+msgstr "Turn Off Airplane Mode?"
+
+msgid "Turn Off Motion Backlight?"
+msgstr "Turn Off Motion Backlight?"
+
+msgid "Turn On Airplane Mode?"
+msgstr "Turn On Airplane Mode?"
+
+msgid "Turn On Motion Backlight?"
+msgstr "Turn On Motion Backlight?"
+
+msgid ""
+"Turn on usage logs to use voice.\n"
+"\n"
+"On your phone, go to Settings in the Pebble Time app."
+msgstr ""
+"음성메세지를 사용하기위해 \n"
+"스마트폰 Pebble Time 앱의 설정메뉴에서\n"
+"사용기록 기능을 켜세요"
+
+msgid ""
+"Unable to connect. Your weather data may be out of date; try checking the "
+"connection on your phone."
+msgstr ""
+"Unable to connect. Your weather data may be out of date; try checking the "
+"connection on your phone."
+
+msgid "Unknown"
+msgstr "알 수 없음"
+
+msgid "Up Button"
+msgstr "위 버튼"
+
+msgid ""
+"Up/Down to adjust\n"
+"Select to proceed"
+msgstr ""
+"Up/Down to adjust\n"
+"Select to proceed"
+
+msgid "Update Complete"
+msgstr "업데이트 성공"
+
+msgid "Update Failed"
+msgstr "업데이트 실패"
+
+msgid "Uptime"
+msgstr "사용시간"
+
+msgid "Vertical Alignment"
+msgstr "수직 정렬"
+
+msgid "Vibration"
+msgstr "진동"
+
+msgid "Vibrations"
+msgstr "진동"
+
+msgid "Voice"
+msgstr "음성"
+
+msgid "WEEKDAYS"
+msgstr "주중"
+
+msgid "WEEKENDS"
+msgstr "주말"
+
+msgid "Wake up between"
+msgstr "Wake up between"
+
+msgid "Wake up interval"
+msgstr "Wake up interval"
+
+msgid "Walk"
+msgstr "Walk"
+
+msgid ""
+"Walk\n"
+"Detected"
+msgstr ""
+"Walk\n"
+"Detected"
+
+msgid ""
+"Wanna know more about you? Track your activity and sleep with Pebble Health."
+msgstr ""
+"Wanna know more about you? Track your activity and sleep with Pebble Health."
+
+msgid "Watchfaces"
+msgstr "시계 화면"
+
+msgid "Way to keep it active!"
+msgstr "Way to keep it active!"
+
+msgid "Way to show us what you're made of 👊"
+msgstr "Way to show us what you're made of 👊"
+
+msgid ""
+"We can barely keep up! You walked %d steps today which is %d%% above your "
+"typical. You're on 🔥"
+msgstr ""
+"We can barely keep up! You walked %d steps today which is %d%% above your "
+"typical. You're on 🔥"
+
+msgid "We'll get there!"
+msgstr "We'll get there!"
+
+msgid ""
+"Wear your watch snug and 2 fingers' width above your wrist bone for best "
+"results."
+msgstr ""
+"Wear your watch snug and 2 fingers' width above your wrist bone for best "
+"results."
+
+msgid "Weather"
+msgstr "날씨"
+
+msgid "Wed"
+msgstr "수"
+
+msgid "Wednesday"
+msgstr "수요일"
+
+msgid "Wednesdays"
+msgstr "수요일"
+
+msgid "Weekdays"
+msgstr "평일"
+
+msgid "Weekends"
+msgstr "주말"
+
+msgid "Well done 💪"
+msgstr "Well done 💪"
+
+msgid "While your Pebble was off wakeup events occurred for:\n"
+msgstr "While your Pebble was off wakeup events occurred for:\n"
+
+msgid ""
+"Wish you could get daily updates on your activity and sleep progress? You "
+"can! Check out your stats with Pebble Health."
+msgstr ""
+"Wish you could get daily updates on your activity and sleep progress? You "
+"can! Check out your stats with Pebble Health."
+
+msgid "Workin' up a sweat?"
+msgstr "Workin' up a sweat?"
+
+msgid "Workout"
+msgstr "Workout"
+
+msgid ""
+"Workout\n"
+"Detected"
+msgstr ""
+"Workout\n"
+"Detected"
+
+msgid ""
+"Workout\n"
+"Ended"
+msgstr ""
+"Workout\n"
+"Ended"
+
+msgid "YOU NAPPED"
+msgstr "YOU NAPPED"
+
+msgid "Yes"
+msgstr "예"
+
+msgid "Yesterday"
+msgstr "어제"
+
+msgid "Yesterday, %R"
+msgstr "어제 %R"
+
+msgid "Yesterday, %l:%M %p"
+msgstr "어제 %p %l:%M"
+
+msgid ""
+"You caught some killer zzz’s! You slept for %dH %dM which is %d%% above your "
+"typical. Keep it up."
+msgstr ""
+"You caught some killer zzz’s! You slept for %dH %dM which is %d%% above your "
+"typical. Keep it up."
+
+msgid "You got the moves!"
+msgstr "You got the moves!"
+
+msgid "You had a good night! Feel the energy 😃"
+msgstr "You had a good night! Feel the energy 😃"
+
+msgid ""
+"You keep moving, we'll keep counting! You've clocked in %d steps today. Keep "
+"it rolling, hot stuff."
+msgstr ""
+"You keep moving, we'll keep counting! You've clocked in %d steps today. Keep "
+"it rolling, hot stuff."
+
+msgid ""
+"You like sleep, don't you? Get fun stats on your sleep and start waking up "
+"less groggy with Pebble Health."
+msgstr ""
+"You like sleep, don't you? Get fun stats on your sleep and start waking up "
+"less groggy with Pebble Health."
+
+msgid ""
+"You only slept for %dH %dM which is %d%% below your typical. We know you're "
+"busy, but try getting more tonight. We believe in you 😉"
+msgstr ""
+"You only slept for %dH %dM which is %d%% below your typical. We know you're "
+"busy, but try getting more tonight. We believe in you 😉"
+
+msgid ""
+"You slept for %dH %dM which is %d%% below your typical. Sleep is vital for "
+"all your great ideas–how 'bout getting more tonight?"
+msgstr ""
+"You slept for %dH %dM which is %d%% below your typical. Sleep is vital for "
+"all your great ideas–how 'bout getting more tonight?"
+
+msgid ""
+"You slept for %dH %dM which is %d%% below your typical. We know stuff "
+"happens; take another crack at it tonight."
+msgstr ""
+"You slept for %dH %dM which is %d%% below your typical. We know stuff "
+"happens; take another crack at it tonight."
+
+msgid ""
+"You walked %d steps today which is %d%% above your typical. You just "
+"outstepped YOURSELF. Mic drop."
+msgstr ""
+"You walked %d steps today which is %d%% above your typical. You just "
+"outstepped YOURSELF. Mic drop."
+
+msgid ""
+"You walked %d steps today which is %d%% below your typical. Don't worry, "
+"tomorrow is just around the corner 😀"
+msgstr ""
+"You walked %d steps today which is %d%% below your typical. Don't worry, "
+"tomorrow is just around the corner 😀"
+
+msgid ""
+"You walked %d steps today which is %d%% below your typical. Try to be more "
+"active tomorrow–you can do it!"
+msgstr ""
+"You walked %d steps today which is %d%% below your typical. Try to be more "
+"active tomorrow–you can do it!"
+
+msgid ""
+"You walked %d steps today. Don't fret, you can get back on track in no time 😉"
+msgstr ""
+"You walked %d steps today. Don't fret, you can get back on track in no time 😉"
+
+msgid "You walked %d steps today. Good news is the sky's the limit!"
+msgstr "You walked %d steps today. Good news is the sky's the limit!"
+
+msgid ""
+"You walked %d steps today. Try to take even more steps tomorrow–show us what "
+"you're made of!"
+msgstr ""
+"You walked %d steps today. Try to take even more steps tomorrow–show us what "
+"you're made of!"
+
+msgid ""
+"You walked %d steps today; keep it up! Being active is the key to feeling "
+"like a million bucks. Try to beat your typical tomorrow."
+msgstr ""
+"You walked %d steps today; keep it up! Being active is the key to feeling "
+"like a million bucks. Try to beat your typical tomorrow."
+
+msgid ""
+"You walked %d steps which is %d%% below your typical, but don't stress. "
+"You'll crush it tomorrow 😉"
+msgstr ""
+"You walked %d steps which is %d%% below your typical, but don't stress. "
+"You'll crush it tomorrow 😉"
+
+msgid ""
+"You walked %d steps which is %d%% below your typical. Being active makes you "
+"feel amaaaazing–try to get back on track tomorrow."
+msgstr ""
+"You walked %d steps which is %d%% below your typical. Being active makes you "
+"feel amaaaazing–try to get back on track tomorrow."
+
+msgid "You're a machine!"
+msgstr "You're a machine!"
+
+msgid "You're all set"
+msgstr "설정이 끝났습니다"
+
+msgid "You're being consistent and that's important, keep at it!"
+msgstr "지금처럼 꾸준히 하는 것이 중요합니다, 힘내세요!"
+
+msgid ""
+"You're rockin' the shut eye! You slept for %dH %dM. Make it a nightly "
+"ritual. You deserve it."
+msgstr ""
+"You're rockin' the shut eye! You slept for %dH %dM. Make it a nightly "
+"ritual. You deserve it."
+
+msgid ""
+"Your Pebble just reset. Please report this using the 'Support' link in the "
+"Pebble phone app."
+msgstr ""
+"Your Pebble just reset. Please report this using the 'Support' link in the "
+"Pebble phone app."
+
+msgid ""
+"Your heart rate has been shared with an app on your phone for several hours. "
+"This could affect your battery. Stop sharing now?"
+msgstr ""
+"Your heart rate has been shared with an app on your phone for several hours. "
+"This could affect your battery. Stop sharing now?"
+
+msgid "Your screen may need calibration. Calibrate it now?"
+msgstr "화면 조정이 필요합니다. 지금 실행하시겠습니까?"
+
+msgid "am"
+msgstr "am"
+
+msgid "pm"
+msgstr "pm"
+
+msgid "sent an attachment"
+msgstr "sent an attachment"
+
+msgid "the day after tomorrow"
+msgstr "내일 모레"
+
+msgid "the foreseeable future"
+msgstr "the foreseeable future"
+
+msgid "this afternoon"
+msgstr "오늘 오후"
+
+msgid "this evening"
+msgstr "오늘 저녁"
+
+msgid "this morning"
+msgstr "오늘 이른 오전"
+
+msgid "tomorrow afternoon"
+msgstr "내일 오후"
+
+msgid "tomorrow evening"
+msgstr "내일 저녁"
+
+msgid "tomorrow morning"
+msgstr "내일 아침"
+
+msgid "tomorrow night"
+msgstr "내일 밤"
+
+msgid "tonight"
+msgstr "오늘 밤"
