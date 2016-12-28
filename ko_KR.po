@@ -185,7 +185,7 @@ msgid "1 hour"
 msgstr "1시간"
 
 msgid "10 Min Before"
-msgstr "10분전"
+msgstr "10분 전"
 
 msgid "10 Minutes"
 msgstr "10분"
@@ -197,7 +197,7 @@ msgid "12h"
 msgstr "12h"
 
 msgid "15 Min Before"
-msgstr "15분전"
+msgstr "15분 전"
 
 msgid "15 Seconds"
 msgstr "15초"
@@ -221,13 +221,13 @@ msgid "30 DAY AVG"
 msgstr "30일 평균"
 
 msgid "30 Min Before"
-msgstr "30분전"
+msgstr "30분 전"
 
 msgid "30 minutes"
 msgstr "30분"
 
 msgid "5 Min Before"
-msgstr "5분전"
+msgstr "5분 전"
 
 msgid "5 Seconds"
 msgstr "5초"
@@ -437,13 +437,13 @@ msgid "Call Ended"
 msgstr "전화 종료"
 
 msgid "Call me"
-msgstr "전화주세요"
+msgstr "전화 주세요"
 
 msgid "Call you later"
 msgstr "나중에 전화할께요"
 
 msgid "Can't connect. Relaunch Pebble Time app on phone."
-msgstr "연결할 수 없습니다. 폰에 설치된 Pebble Time 앱을 재실행해주세요"
+msgstr "연결할 수 없습니다. 폰에 설치된 Pebble Time 앱을 재실행 해주세요"
 
 msgid "Can't stop, won't stop 👊"
 msgstr "멈출수도 없고, 멈추고 싶지 않아요👊"
@@ -479,7 +479,7 @@ msgid "Clear All"
 msgstr "모두 삭제"
 
 msgid "Clear history?"
-msgstr "모두 삭제하시겠습니까?"
+msgstr "모두 삭제 하시겠습니까?"
 
 msgid "Completed"
 msgstr "완료됨"
@@ -501,13 +501,13 @@ msgid "Connection"
 msgstr "연결"
 
 msgid "Convert to Basic Alarm"
-msgstr "기본알람으로 변경"
+msgstr "기본 알람으로 변경"
 
 msgid "Convert to Smart Alarm"
 msgstr "스마트 알람으로 변경"
 
 msgid "Core dump and reboot?"
-msgstr "코어덤프하고 리부팅합니까?"
+msgstr "코어 덤프하고 리부팅 합니까?"
 
 msgid "Custom"
 msgstr "맞춤 설정"
@@ -549,7 +549,7 @@ msgid "Dictation is not available."
 msgstr "받아쓰기를 사용할 수 없습니다."
 
 msgid "Did your Pebble reset?"
-msgstr "페블이 초기화됐습니까?"
+msgstr "페블이 초기화 됐습니까?"
 
 msgid "Didn’t that walk feel good?"
 msgstr "걸으니 기분이 좋죠?"
@@ -672,7 +672,7 @@ msgid "Feelin' good? You slept for %dH %dM. Nothing can stop you now 👊"
 msgstr "기분 좀 어때요? %dH %dM 잤으니 뭘해도 이젠 거뜬 할겁니다 👊"
 
 msgid "Feelin' hot? Cause you're on 🔥"
-msgstr "덥죠? 불붙었으니 뜨거울수 밖에요 🔥"
+msgstr "덥죠? 불 붙었으니 뜨거울 수 밖에요 🔥"
 
 msgid "Filter"
 msgstr "필터"
@@ -824,7 +824,7 @@ msgid "In %lu minutes"
 msgstr "%lu분 전"
 
 msgid "In 15 minutes"
-msgstr "15 minutos"
+msgstr "15분 내"
 
 msgid "Incoming Calls"
 msgstr "전화 수신"
@@ -998,16 +998,16 @@ msgid "Mute %s"
 msgstr "Mute %s"
 
 msgid "Mute All Notifications"
-msgstr "모든 알림 소리끔"
+msgstr "모든 알림 끔"
 
 msgid "Mute Always"
-msgstr "항상 무음"
+msgstr "항상 알림 끔"
 
 msgid "Mute Weekdays"
-msgstr "Mute Weekdays"
+msgstr "주중 알림 끔"
 
 msgid "Mute Weekends"
-msgstr "Mute Weekends"
+msgstr "주말 알림 끔"
 
 msgid "Muted"
 msgstr "Muted"
@@ -1025,7 +1025,7 @@ msgid "New Alarm"
 msgstr "새로운 알람"
 
 msgid "New Smart Alarm"
-msgstr "New Smart Alarm"
+msgstr "새로운 스마트 알람"
 
 msgid ""
 "Nice moves! You've walked %d steps today which is %d%% above your typical. Crush "
@@ -1070,10 +1070,7 @@ msgid ""
 "No sleep data,\n"
 "wear your watch\n"
 "to sleep"
-msgstr ""
-"No sleep data,\n"
-"wear your watch\n"
-"to sleep"
+msgstr "수면 정보가 없습니다. 자는 동안 시계를 착용하세요"
 
 msgid "None"
 msgstr "없음"
@@ -1137,7 +1134,7 @@ msgid "October"
 msgstr "10월"
 
 msgid "Of napping"
-msgstr "낮잠의 일종"
+msgstr "Of napping"
 
 msgid "Off"
 msgstr "꺼짐"
@@ -1299,14 +1296,12 @@ msgstr ""
 "again tonight, sleep master."
 
 msgid "Run"
-msgstr "Run"
+msgstr "달리기"
 
 msgid ""
 "Run\n"
 "Detected"
-msgstr ""
-"Run\n"
-"Detected"
+msgstr "달리기 감지됨"
 
 msgid "Run %s instead of %s as the background app?"
 msgstr "%s을 %s 대신 백그라운드 앱으로 설정하시겠습니까?"
@@ -1376,13 +1371,13 @@ msgid "Settings"
 msgstr "설정"
 
 msgid "Share heart rate?"
-msgstr "Share heart rate?"
+msgstr "심박수를 공유 하시겠습니까?"
 
 msgid "Sharing Heart Rate"
-msgstr "Sharing Heart Rate"
+msgstr "심박수 공유"
 
 msgid "Sharing Heart Rate ❤"
-msgstr "Sharing Heart Rate ❤"
+msgstr "심박수 공유 ❤"
 
 msgid "Shut Down"
 msgstr "종료"
@@ -1454,7 +1449,7 @@ msgstr ""
 "to keep it going."
 
 msgid "Stop Sharing Heart Rate"
-msgstr "Stop Sharing Heart Rate"
+msgstr "심박수 공유 정지"
 
 msgid "Sun"
 msgstr "일"
@@ -1540,7 +1535,7 @@ msgid "Timezone Source"
 msgstr "Timezone Source"
 
 msgid "Timing"
-msgstr "Timing"
+msgstr "타이밍"
 
 msgctxt "TmplStringPlur"
 msgid " d"
@@ -1673,16 +1668,16 @@ msgid "Tuesdays"
 msgstr "화요일"
 
 msgid "Turn Off Airplane Mode?"
-msgstr "Turn Off Airplane Mode?"
+msgstr "비행기 모드를 해제합니까?"
 
 msgid "Turn Off Motion Backlight?"
-msgstr "Turn Off Motion Backlight?"
+msgstr "모션 백라이트를 끌까요?"
 
 msgid "Turn On Airplane Mode?"
-msgstr "Turn On Airplane Mode?"
+msgstr "비행기 모드로 전환할까요?"
 
 msgid "Turn On Motion Backlight?"
-msgstr "Turn On Motion Backlight?"
+msgstr "모션 백라이트를 켤까요?"
 
 msgid ""
 "Turn on usage logs to use voice.\n"
@@ -1697,8 +1692,7 @@ msgid ""
 "Unable to connect. Your weather data may be out of date; try checking the "
 "connection on your phone."
 msgstr ""
-"Unable to connect. Your weather data may be out of date; try checking the "
-"connection on your phone."
+"연결할 수 없습니다. 날씨 정보가 오래됐을 수 있으니 폰에서 연결을 확인해 보세요"
 
 msgid "Unknown"
 msgstr "알 수 없음"
@@ -1709,9 +1703,7 @@ msgstr "위 버튼"
 msgid ""
 "Up/Down to adjust\n"
 "Select to proceed"
-msgstr ""
-"Up/Down to adjust\n"
-"Select to proceed"
+msgstr "아래/위 버튼을 눌러 조정하고 선택 버튼을 눌러 다음으로 진행하세요"
 
 msgid "Update Complete"
 msgstr "업데이트 성공"
@@ -1747,14 +1739,12 @@ msgid "Wake up interval"
 msgstr "Wake up interval"
 
 msgid "Walk"
-msgstr "Walk"
+msgstr "산책"
 
 msgid ""
 "Walk\n"
 "Detected"
-msgstr ""
-"Walk\n"
-"Detected"
+msgstr "산책 감지됨"
 
 msgid ""
 "Wanna know more about you? Track your activity and sleep with Pebble Health."
@@ -1804,7 +1794,7 @@ msgid "Weekends"
 msgstr "주말"
 
 msgid "Well done 💪"
-msgstr "Well done 💪"
+msgstr "잘 했습니다 💪"
 
 msgid "While your Pebble was off wakeup events occurred for:\n"
 msgstr "While your Pebble was off wakeup events occurred for:\n"
