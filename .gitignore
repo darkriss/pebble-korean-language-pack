@@ -1,1 +1,5 @@
+.DS_Store
 *.mo
+tmp
+.env/
+arm-cs-tools/

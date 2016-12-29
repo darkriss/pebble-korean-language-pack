@@ -1,0 +1,42 @@
+#!/usr/bin/env python
+import sys
+import os
+import shutil
+import subprocess
+import signal
+
+# If running python3 by default, see if there is a python2 installation we
+#  can use instead
+if sys.version_info[0] == 3:
+    python_exe = shutil.which('python2')
+    if python_exe is None:
+        print("The Pebble SDK requires python version 2.6 or 2.7 (python2). "
+        "You are currently running python version %d.%d, and a python2 executable "
+        "could not be found. Please install python2 in order to run the Pebble "
+        "SDK." % (sys.version_info[0], sys.version_info[1]))
+        sys.exit(1)
+    cmd_name = "python2"
+else:
+    cmd_name = "python"
+
+# Disable ctrl-c in the this parent process so that we don't get a stack
+#  trace when user hits ctrl-c to exit pebble logs for example.
+def signal_handler(signal, frame):
+    pass
+signal.signal(signal.SIGINT, signal_handler)
+
+# Form the command line
+script_path = os.path.join(os.path.dirname(__file__), os.pardir, "pebble-tool", "pebble.py")
+args = [cmd_name, script_path]
+args += sys.argv[1:]
+# TODO(AMK): support for python3 here
+local_python_env = dict(os.environ)
+local_python_env["PYTHONPATH"] = os.path.join(
+  os.path.dirname(__file__), os.pardir,
+  ".env", 'lib', 'python%s' % sys.version[:3], 'site-packages'
+)
+
+process = subprocess.Popen(args, shell=False, env=local_python_env)
+
+process.wait()
+sys.exit(process.returncode)
