@@ -7,7 +7,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Name: Japaness\n"
+"Name: Japanese\n"
 "X-Generator: Poedit 1.8.11\n"
 "Language-Team: Mr. Handy Slack Community\n"
 "PO-Revision-Date: \n"
@@ -20,10 +20,10 @@ msgid " - "
 msgstr " - "
 
 msgid " MIN. TO"
-msgstr "분 뒤"
+msgstr "分後"
 
 msgid "%.*s is not responding"
-msgstr "%.*s가 응답하지 않습니다"
+msgstr "%.*sが応答しません。"
 
 msgid "%A"
 msgstr "%A"
@@ -35,7 +35,7 @@ msgid "%B %d"
 msgstr "%d %B"
 
 msgid "%B %e"
-msgstr "%B %e일"
+msgstr "%B %e日"
 
 msgid "%H:%M"
 msgstr "%H:%M"
@@ -50,7 +50,7 @@ msgid "%R"
 msgstr "%R"
 
 msgid "%a %b %e %H:%M:%S %Y"
-msgstr "%Y년 %b %일 %H:%M:%S %a"
+msgstr "%Y年 %b %日 %H:%M:%S %a"
 
 msgid "%a, %R"
 msgstr "%R %a"
@@ -65,10 +65,10 @@ msgid "%b "
 msgstr "%b "
 
 msgid "%b %e, %R"
-msgstr "%b %e일, %R"
+msgstr "%b %e日, %R"
 
 msgid "%b %e, %l:%M %p"
-msgstr "%b %e일, %l:%M %p"
+msgstr "%b %e日, %l:%M %p"
 
 msgid "%d"
 msgstr "%d"
@@ -119,19 +119,19 @@ msgid "%l:%M%p"
 msgstr "%I:%M%p"
 
 msgid "%lu H AGO"
-msgstr "%lu시 전"
+msgstr "%lu時前"
 
 msgid "%lu MIN AGO"
-msgstr "%lu분 전"
+msgstr "%lu分前"
 
 msgid "%lu hours ago"
-msgstr "%lu시간 전"
+msgstr "%lu時間前"
 
 msgid "%lu minute ago"
-msgstr "%lu분 전"
+msgstr "%lu分前"
 
 msgid "%lu minutes ago"
-msgstr "%lu분 전"
+msgstr "%lu分前"
 
 msgid "%m/%d"
 msgstr "%m/%d"
@@ -146,28 +146,28 @@ msgid "%s - %s"
 msgstr "%s - %s"
 
 msgid "%s of sleep"
-msgstr "%s 의 수면"
+msgstr "%sの眠り"
 
 msgid ""
 "%s%.*s is not responding.\n"
 "\n"
 "Open app?"
 msgstr ""
-"%s%.*s가 응답하지 않습니다.\n"
+"%s%.*sが応答しません。\n"
 "\n"
-"앱을 실행하시겠습니까?"
+"アプリを起動しますか？"
 
 msgid "%u Paired Phone"
-msgstr "%u 연결된 폰"
+msgstr "%u 接続された携帯電話"
 
 msgid "%u Paired Phones"
-msgstr "%u 연결된 폰"
+msgstr "%u 接続された携帯電話"
 
 msgid "%u Steps"
-msgstr "%u 걸음"
+msgstr "%u歩"
 
 msgid "%uH %uM Sleep"
-msgstr "%u시간 %u분 수면"
+msgstr "%u時間 %u分 眠り"
 
 msgid "--°"
 msgstr "--°"
@@ -179,64 +179,64 @@ msgid "--° / --°"
 msgstr "--° / --°"
 
 msgid "1 Minute"
-msgstr "1분"
+msgstr "1分"
 
 msgid "1 hour"
-msgstr "1시간"
+msgstr "1時間"
 
 msgid "10 Min Before"
-msgstr "10분 전"
+msgstr "10分前"
 
 msgid "10 Minutes"
-msgstr "10분"
+msgstr "10分"
 
 msgid "10 minutes"
-msgstr "10분"
+msgstr "10分"
 
 msgid "12h"
 msgstr "12h"
 
 msgid "15 Min Before"
-msgstr "15분 전"
+msgstr "15分前"
 
 msgid "15 Seconds"
-msgstr "15초"
+msgstr "15秒"
 
 msgid "15 minutes"
-msgstr "15분"
+msgstr "15分"
 
 msgid "24h"
 msgstr "24h"
 
 msgid "3 Minutes"
-msgstr "3분"
+msgstr "3分"
 
 msgid "3 Seconds"
-msgstr "3초"
+msgstr "3秒"
 
 msgid "30 DAY"
-msgstr "30일"
+msgstr "30日"
 
 msgid "30 DAY AVG"
-msgstr "30일 평균"
+msgstr "30日の平均"
 
 msgid "30 Min Before"
-msgstr "30분 전"
+msgstr "30分前"
 
 msgid "30 minutes"
-msgstr "30분"
+msgstr "30分"
 
 msgid "5 Min Before"
-msgstr "5분 전"
+msgstr "5分前"
 
 msgid "5 Seconds"
-msgstr "5초"
+msgstr "5秒"
 
 msgid "5 minutes"
-msgstr "5분"
+msgstr "5分"
 
 msgid "8 Seconds"
-msgstr "8초"
+msgstr "8秒"
 
 msgid ": "
 msgstr ": "
