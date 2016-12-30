@@ -1006,7 +1006,7 @@ msgid "Mute Weekends"
 msgstr "주말 알림 끔"
 
 msgid "Muted"
-msgstr "Muted"
+msgstr "무시됨"
 
 msgid "NOT VERY ACTIVE"
 msgstr "비활동적"
@@ -1299,7 +1299,7 @@ msgid "Run %s instead of %s as the background app?"
 msgstr "%s을 %s 대신 백그라운드 앱으로 설정하시겠습니까?"
 
 msgid "SLEEP SESSION"
-msgstr "SLEEP SESSION"
+msgstr "수면 기간"
 
 msgid "SMTWTFS"
 msgstr "SMTWTFS"
@@ -1728,7 +1728,7 @@ msgid "Wake up between"
 msgstr "다음 시간에 깨움"
 
 msgid "Wake up interval"
-msgstr "Wake up interval"
+msgstr "깨우기 간격"
 
 msgid "Walk"
 msgstr "산책"
