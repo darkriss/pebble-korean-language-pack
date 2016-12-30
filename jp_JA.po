@@ -146,7 +146,7 @@ msgid "%s - %s"
 msgstr "%s - %s"
 
 msgid "%s of sleep"
-msgstr "%sの眠り"
+msgstr "%sの睡眠"
 
 msgid ""
 "%s%.*s is not responding.\n"
@@ -167,7 +167,7 @@ msgid "%u Steps"
 msgstr "%u歩"
 
 msgid "%uH %uM Sleep"
-msgstr "%u時間 %u分 眠り"
+msgstr "%u時間 %u分 睡眠"
 
 msgid "--°"
 msgstr "--°"
