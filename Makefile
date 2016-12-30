@@ -9,6 +9,10 @@ c83k: 000
 	cp ./templates/000 ./templates/C83k/
 	./bin/pbpack_tool.py pack ./packed/C83k.pbl ./templates/C83k/0*
 
+c83kcs: 000
+	cp ./templates/000 ./templates/C83k/
+	./bin/pbpack_tool.py pack ./packed/C83kcs.pbl ./templates/C83kcs/0*
+
 000:
 	msgfmt ko_KR.po -o ./templates/000
 
