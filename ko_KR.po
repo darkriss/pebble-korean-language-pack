@@ -1302,7 +1302,7 @@ msgid "SLEEP SESSION"
 msgstr "수면 기간"
 
 msgid "SMTWTFS"
-msgstr "요일"
+msgstr "SMTWTFS"
 
 msgid "SPEED"
 msgstr "속도"
