@@ -7,7 +7,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Name: Japanese\n"
+"Name: 日本語\n"
 "X-Generator: Poedit 1.8.11\n"
 "Language-Team: Mr. Handy Slack Community\n"
 "PO-Revision-Date: \n"
@@ -23,7 +23,7 @@ msgid " MIN. TO"
 msgstr "分後"
 
 msgid "%.*s is not responding"
-msgstr "%.*sが応答しません。"
+msgstr "%.*sが応答しません"
 
 msgid "%A"
 msgstr "%A"
@@ -153,15 +153,15 @@ msgid ""
 "\n"
 "Open app?"
 msgstr ""
-"%s%.*sが応答しません。\n"
+"%s%.*sが応答しません\n"
 "\n"
 "アプリを起動しますか？"
 
 msgid "%u Paired Phone"
-msgstr "%u 接続された携帯電話"
+msgstr "%u 接続されたスマホ"
 
 msgid "%u Paired Phones"
-msgstr "%u 接続された携帯電話"
+msgstr "%u 接続されたスマホ"
 
 msgid "%u Steps"
 msgstr "%u歩"
@@ -248,19 +248,19 @@ msgid "A good night's sleep goes a long way! Try to get more hours tonight."
 msgstr "숙면을 취하면 개운합니다! 오늘 밤은 더 자려고 노력해보세요."
 
 msgid "ABOVE AVG"
-msgstr "평균 이상"
+msgstr "平均以上"
 
 msgid "AM"
 msgstr "AM"
 
 msgid "AVG PACE"
-msgstr "평균 페이스"
+msgstr "平均ペース"
 
 msgid "AVG PACE (/KM)"
-msgstr "평균 페이스 (/KM)"
+msgstr "平均ペース(/KM)"
 
 msgid "AVG PACE (/MI)"
-msgstr "평균페이스 (/MI)"
+msgstr "平均ペース(/MI)"
 
 msgid "About average"
 msgstr "무난했어요"
@@ -269,49 +269,49 @@ msgid "About the same"
 msgstr "비슷합니다"
 
 msgid "Above avg"
-msgstr "평균 이상입니다"
+msgstr "平均ペースです"
 
 msgid "Active"
-msgstr "사용중"
+msgstr "使用中"
 
 msgid "Active Calories"
 msgstr "Active Calories"
 
 msgid "Activity Summary"
-msgstr "활동 분석"
+msgstr "活動分析"
 
 msgid ""
 "Add contacts in\n"
 "mobile app"
-msgstr "모바일 앱에 연락처 추가"
+msgstr "モバイルアプリに連絡先を追加"
 
 msgid "Added"
-msgstr "추가됨"
+msgstr "追加されました"
 
 msgid ""
 "Airplane\n"
 "Mode Off"
-msgstr "비행기모드 끄기"
+msgstr "機内モードオフ"
 
 msgid ""
 "Airplane\n"
 "Mode On"
-msgstr "비행기모드 켜기"
+msgstr "機内モードオン"
 
 msgid "Airplane Mode"
-msgstr "비행기 모드"
+msgstr "機内モード"
 
 msgid "Alarm"
-msgstr "알람"
+msgstr "アラーム"
 
 msgid "Alarm Deleted"
-msgstr "설정된 알람이 없습니다"
+msgstr "設定されたアラームがありません"
 
 msgid "Alarm dismissed"
-msgstr "알람이 해제되었습니다"
+msgstr "アラームが解除されました"
 
 msgid "Alarms"
-msgstr "알람"
+msgstr "アラーム"
 
 msgid "All Day"
 msgstr "종일"
@@ -320,7 +320,7 @@ msgid "All day"
 msgstr "종일"
 
 msgid "Allow All Notifications"
-msgstr "알림 허용"
+msgstr "通知 허용"
 
 msgid "Allow Phone Calls"
 msgstr "전화 알림 허용"
@@ -332,46 +332,46 @@ msgid "Ambient Sensor"
 msgstr "조도 센서"
 
 msgid "An hour ago"
-msgstr "한 시간 전"
+msgstr "一時間前"
 
 msgid "Appears on your watchface when an event is about to start."
 msgstr "일정이 시작할 무렵 시계화면에 나타납니다."
 
 msgid "Apr"
-msgstr "4월"
+msgstr "4月"
 
 msgid "April"
-msgstr "4월"
+msgstr "4月"
 
 msgid "Aren't naps great? You knocked out for %dH %dM!"
 msgstr "잘 잤나요? %dH %dM 동안 기절했네요!"
 
 msgid "Aug"
-msgstr "8월"
+msgstr "8月"
 
 msgid "August"
-msgstr "8월"
+msgstr "8月"
 
 msgid "Automatic"
-msgstr "자동"
+msgstr "自動"
 
 msgid "Avg HR"
-msgstr "평균 ❤ "
+msgstr "平均心拍数"
 
 msgid "Avg Pace"
-msgstr "평균 페이스"
+msgstr "平均ペース"
 
 msgid "Awesome!"
-msgstr "멋지네요!"
+msgstr "素晴らしい!"
 
 msgid "BELOW AVG"
-msgstr "평균 이하"
+msgstr "平均以下"
 
 msgid "BPM"
 msgstr "BPM"
 
 msgid "BT Address"
-msgstr "BT 주소"
+msgstr "BTアドレス"
 
 msgid "Back Button"
 msgstr "이전 버튼"
@@ -405,7 +405,7 @@ msgid "Broadcaster"
 msgstr "방송사"
 
 msgid "CALORIES"
-msgstr "칼로리"
+msgstr "カロリー"
 
 msgid "CONSISTENT!"
 msgstr "변함없네요!"
@@ -514,13 +514,13 @@ msgid "DEEP SLEEP"
 msgstr "숙면"
 
 msgid "DISTANCE"
-msgstr "거리"
+msgstr "距離"
 
 msgid "DISTANCE (KM)"
-msgstr "거리 (KM)"
+msgstr "距離(KM)"
 
 msgid "DISTANCE (MI)"
-msgstr "거리 (MI)"
+msgstr "距離(MI)"
 
 msgid "DURATION"
 msgstr "기간"
@@ -529,10 +529,10 @@ msgid "Date & Time"
 msgstr "날짜와 시간"
 
 msgid "Dec"
-msgstr "12월"
+msgstr "12月"
 
 msgid "December"
-msgstr "12월"
+msgstr "12月"
 
 msgid "Default"
 msgstr "기본값"
@@ -592,7 +592,7 @@ msgid "Do you want to shut down?"
 msgstr "전원을 끕니다"
 
 msgid "Done"
-msgstr "완료"
+msgstr "完了"
 
 msgid "Down Button"
 msgstr "아래 버튼"
@@ -601,16 +601,16 @@ msgid "ENDURANCE"
 msgstr "지구력"
 
 msgid "EVERY DAY"
-msgstr "매일"
+msgstr "毎日"
 
 msgid "Edit"
 msgstr "편집"
 
 msgid "Emoji"
-msgstr "그림 문자"
+msgstr "絵文字"
 
 msgid "Enable"
-msgstr "사용"
+msgstr "使用"
 
 msgid "Enable Pebble Health in the mobile app to track workouts"
 msgstr "경로를 추적하기 위해 폰에서 헬스기능을 사용함으로 설정하세요"
@@ -646,7 +646,7 @@ msgid "Error occurred. Try again."
 msgstr "오류입니다. 다시 시도하세요"
 
 msgid "Every Day"
-msgstr "매일"
+msgstr "毎日"
 
 msgid "FAT BURN"
 msgstr "지방 태우기"
@@ -655,16 +655,16 @@ msgid "Factory Reset"
 msgstr "공장 초기화"
 
 msgid "Failed"
-msgstr "실패"
+msgstr "失敗"
 
 msgid "Fat Burn"
 msgstr "지방 태우기"
 
 msgid "Feb"
-msgstr "2월"
+msgstr "2月"
 
 msgid "February"
-msgstr "2월"
+msgstr "2月"
 
 msgid "Feelin' good? You slept for %dH %dM. Nothing can stop you now 👊"
 msgstr "기분 좀 어때요? %dH %dM 잤으니 뭘해도 이젠 거뜬 할겁니다 👊"
@@ -695,13 +695,13 @@ msgid "Forget"
 msgstr "지움"
 
 msgid "Fri"
-msgstr "금"
+msgstr "金"
 
 msgid "Friday"
-msgstr "금요일"
+msgstr "金曜日"
 
 msgid "Fridays"
-msgstr "금요일"
+msgstr "金曜日"
 
 msgid "Fully Charged"
 msgstr "충전 완료"
@@ -747,7 +747,7 @@ msgid "Hardware"
 msgstr "하드웨어"
 
 msgid "Health"
-msgstr "건강"
+msgstr "健康"
 
 msgid "Heart Rate Not Shared"
 msgstr "심박수 비공개"
@@ -809,19 +809,19 @@ msgid "INTENSITY"
 msgstr "조명 세기"
 
 msgid "In %lu hour"
-msgstr "%lu시간 전"
+msgstr "%lu時間前"
 
 msgid "In %lu hours"
-msgstr "%lu시간 전"
+msgstr "%lu時間前"
 
 msgid "In %lu minute"
-msgstr "%lu분 전"
+msgstr "%lu分前"
 
 msgid "In %lu minutes"
-msgstr "%lu분 전"
+msgstr "%lu分前"
 
 msgid "In 15 minutes"
-msgstr "15분 내"
+msgstr "15分以内"
 
 msgid "Incoming Calls"
 msgstr "전화 수신"
@@ -830,7 +830,7 @@ msgid "Incompatible JS"
 msgstr "비호환 자바스크립트"
 
 msgid "Information"
-msgstr "정보"
+msgstr "情報"
 
 msgid "Intensity"
 msgstr "조명 세기"
@@ -855,22 +855,22 @@ msgid "Jackhammer"
 msgstr "드릴"
 
 msgid "Jan"
-msgstr "1월"
+msgstr "1月"
 
 msgid "January"
-msgstr "1월"
+msgstr "1月"
 
 msgid "Jul"
-msgstr "7월"
+msgstr "7月"
 
 msgid "July"
-msgstr "7월"
+msgstr "7月"
 
 msgid "Jun"
-msgstr "6월"
+msgstr "6月"
 
 msgid "June"
-msgstr "6월"
+msgstr "6月"
 
 msgid "KM"
 msgstr "KM"
@@ -895,7 +895,7 @@ msgid "LE Only"
 msgstr "LE 단독"
 
 msgid "Language"
-msgstr "언어"
+msgstr "言語"
 
 msgid "Larger"
 msgstr "크게"
@@ -938,13 +938,13 @@ msgid "Manual"
 msgstr "수동으로 활성화"
 
 msgid "Mar"
-msgstr "3월"
+msgstr "3月"
 
 msgid "March"
-msgstr "3월"
+msgstr "3月"
 
 msgid "May"
-msgstr "5월"
+msgstr "5月"
 
 msgid "Medium"
 msgstr "보통"
@@ -959,13 +959,13 @@ msgstr ""
 "음...꿀잠이군요. 평소보다 %d%% 많은 %dH %dM동안 잠을 잤습니다. 기분 좋겠는걸요!"
 
 msgid "Mon"
-msgstr "월"
+msgstr "月"
 
 msgid "Monday"
-msgstr "월요일"
+msgstr "月曜日"
 
 msgid "Mondays"
-msgstr "월요일"
+msgstr "月曜日"
 
 msgid ""
 "Motion\n"
@@ -988,7 +988,7 @@ msgid "Motion Enabled"
 msgstr "움직임 감지"
 
 msgid "Music"
-msgstr "음악"
+msgstr "音楽"
 
 msgid "Mute %s"
 msgstr "%s 무시"
@@ -1012,7 +1012,7 @@ msgid "NOT VERY ACTIVE"
 msgstr "비활동적"
 
 msgid "NOW"
-msgstr "지금"
+msgstr "今"
 
 msgid "Nap Time"
 msgstr "낮잠 시간"
@@ -1031,7 +1031,7 @@ msgstr ""
 "세워봐요 😀"
 
 msgid "No"
-msgstr "아니오"
+msgstr "いいえ"
 
 msgid "No LE"
 msgstr "LE 제외"
@@ -1068,7 +1068,7 @@ msgid ""
 msgstr "수면 정보가 없습니다. 자는 동안 시계를 착용하세요"
 
 msgid "None"
-msgstr "없음"
+msgstr "無し"
 
 msgid "Not connected"
 msgstr "연결 안됨"
@@ -1093,16 +1093,16 @@ msgid "Medium"
 msgstr "중간"
 
 msgid "Notifications"
-msgstr "알림"
+msgstr "通知"
 
 msgid "Nov"
-msgstr "11월"
+msgstr "11月"
 
 msgid "November"
-msgstr "11월"
+msgstr "11月"
 
 msgid "Now"
-msgstr "지금"
+msgstr "今"
 
 msgid "Now Discoverable"
 msgstr "검색 가능"
@@ -1111,43 +1111,43 @@ msgid "Nudge Nudge"
 msgstr "톡톡"
 
 msgid "OFF"
-msgstr "꺼짐"
+msgstr "オフ"
 
 msgid "ON"
-msgstr "켜짐"
+msgstr "オン"
 
 msgid "ON AVG"
 msgstr "ON AVG"
 
 msgid "ONCE"
-msgstr "한번"
+msgstr "一度"
 
 msgid "Oct"
-msgstr "10월"
+msgstr "10月"
 
 msgid "October"
-msgstr "10월"
+msgstr "10月"
 
 msgid "Of napping"
 msgstr "Of napping"
 
 msgid "Off"
-msgstr "꺼짐"
+msgstr "オフ"
 
 msgid "Ok"
-msgstr "확인"
+msgstr "確認"
 
 msgid "On"
-msgstr "켜짐"
+msgstr "オン"
 
 msgid "On avg"
 msgstr "On avg"
 
 msgid "Once"
-msgstr "한 번"
+msgstr "一度"
 
 msgid "Open App"
-msgstr "앱 실행"
+msgstr "アプリ起動"
 
 msgid "Open Pin"
 msgstr "핀 열기"
@@ -1162,13 +1162,13 @@ msgid "Open the Pebble app on your phone to connect."
 msgstr "연결을 위해 스마트폰의 페블 앱을 열어 주세요."
 
 msgid "PACE"
-msgstr "페이스"
+msgstr "ペース"
 
 msgid "PACE (/KM)"
-msgstr "페이스 (/KM)"
+msgstr "ペース(/KM)"
 
 msgid "PACE (/MI)"
-msgstr "페이스 (/MI)"
+msgstr "ペース(/MI)"
 
 msgid "PERFORMANCE"
 msgstr "빡쎄게"
@@ -1351,16 +1351,16 @@ msgid "Send Text"
 msgstr "문자 보내기"
 
 msgid "Sep"
-msgstr "9월"
+msgstr "9月"
 
 msgid "September"
-msgstr "9월"
+msgstr "9月"
 
 msgid "Serial"
 msgstr "일련번호"
 
 msgid "Settings"
-msgstr "설정"
+msgstr "設定"
 
 msgid "Share heart rate?"
 msgstr "심박수를 공유 하시겠습니까?"
@@ -1372,7 +1372,7 @@ msgid "Sharing Heart Rate ❤"
 msgstr "심박수 공유 ❤"
 
 msgid "Shut Down"
-msgstr "종료"
+msgstr "終了"
 
 msgid "Sleep Summary"
 msgstr "수면 분석"
@@ -1404,7 +1404,7 @@ msgstr ""
 "누군가는 지금도 움직이고 있습니다 👊 지금까지 %d 걸음을 걸었네요. 계속 하세요!"
 
 msgid "Sports"
-msgstr "스포츠"
+msgstr "スポーツ"
 
 msgid "Stand-By Mode"
 msgstr "대기 모드"
@@ -1444,22 +1444,22 @@ msgid "Stop Sharing Heart Rate"
 msgstr "심박수 공유 정지"
 
 msgid "Sun"
-msgstr "일"
+msgstr "日"
 
 msgid "Sunday"
-msgstr "일요일"
+msgstr "日曜日"
 
 msgid "Sundays"
-msgstr "일요일"
+msgstr "日曜日"
 
 msgid "System"
-msgstr "시스템"
+msgstr "システム"
 
 msgid "TIMEOUT"
 msgstr "시간초과"
 
 msgid "TOMORROW"
-msgstr "내일"
+msgstr "明日"
 
 msgid "TYPICAL %s"
 msgstr "평상시 %s"
@@ -1468,7 +1468,7 @@ msgid "Text Size"
 msgstr "글자 크기"
 
 msgid "Thanks!"
-msgstr "감쏴!"
+msgstr "ありがとう!"
 
 msgid ""
 "That's a lot of sheep you just counted! You slept for %dH %dM which is %d%% "
@@ -1500,13 +1500,13 @@ msgstr ""
 "요."
 
 msgid "Thu"
-msgstr "목"
+msgstr "木"
 
 msgid "Thursday"
-msgstr "목요일"
+msgstr "木曜日"
 
 msgid "Thursdays"
-msgstr "목요일"
+msgstr "木曜日"
 
 msgid "Time Format"
 msgstr "시간 형식"
@@ -1535,11 +1535,11 @@ msgstr " d"
 
 msgctxt "TmplStringPlur"
 msgid " days"
-msgstr " 일"
+msgstr "日"
 
 msgctxt "TmplStringPlur"
 msgid " hours"
-msgstr " 시"
+msgstr "時"
 
 msgctxt "TmplStringPlur"
 msgid " hr"
@@ -1551,7 +1551,7 @@ msgstr " min"
 
 msgctxt "TmplStringPlur"
 msgid " minutes"
-msgstr " 분"
+msgstr "分"
 
 msgctxt "TmplStringPlur"
 msgid " mo"
@@ -1559,7 +1559,7 @@ msgstr " M"
 
 msgctxt "TmplStringPlur"
 msgid " months"
-msgstr " 개월"
+msgstr "ヶ月"
 
 msgctxt "TmplStringPlur"
 msgid " sec"
@@ -1567,11 +1567,11 @@ msgstr " s"
 
 msgctxt "TmplStringPlur"
 msgid " seconds"
-msgstr " 초"
+msgstr "秒"
 
 msgctxt "TmplStringPlur"
 msgid " years"
-msgstr " 년"
+msgstr "年"
 
 msgctxt "TmplStringPlur"
 msgid " yr"
@@ -1599,11 +1599,11 @@ msgstr " d"
 
 msgctxt "TmplStringSing"
 msgid " day"
-msgstr " 일"
+msgstr "日"
 
 msgctxt "TmplStringSing"
 msgid " hour"
-msgstr " 시"
+msgstr "時"
 
 msgctxt "TmplStringSing"
 msgid " hr"
@@ -1615,7 +1615,7 @@ msgstr " min"
 
 msgctxt "TmplStringSing"
 msgid " minute"
-msgstr " 분"
+msgstr "分"
 
 msgctxt "TmplStringSing"
 msgid " mo"
@@ -1623,7 +1623,7 @@ msgstr " mo"
 
 msgctxt "TmplStringSing"
 msgid " month"
-msgstr " 월"
+msgstr "月"
 
 msgctxt "TmplStringSing"
 msgid " sec"
@@ -1631,33 +1631,33 @@ msgstr " s"
 
 msgctxt "TmplStringSing"
 msgid " second"
-msgstr " 초"
+msgstr "秒"
 
 msgctxt "TmplStringSing"
 msgid " year"
-msgstr " 년"
+msgstr "年"
 
 msgctxt "TmplStringSing"
 msgid " yr"
 msgstr " yr"
 
 msgid "Today"
-msgstr "오늘"
+msgstr "今日"
 
 msgid "Tomorrow"
-msgstr "내일"
+msgstr "明日"
 
 msgid "Track your steps, sleep, and more! Enable Pebble Health in the mobile app."
 msgstr "걸음 수, 잠 등등! 스마트폰 페블 앱에서 건강 기능을 활성화하세요"
 
 msgid "Tue"
-msgstr "화"
+msgstr "火"
 
 msgid "Tuesday"
-msgstr "화요일"
+msgstr "火曜日"
 
 msgid "Tuesdays"
-msgstr "화요일"
+msgstr "火曜日"
 
 msgid "Turn Off Airplane Mode?"
 msgstr "비행기 모드를 해제합니까?"
@@ -1770,22 +1770,22 @@ msgid "Weather"
 msgstr "날씨"
 
 msgid "Wed"
-msgstr "수"
+msgstr "水"
 
 msgid "Wednesday"
-msgstr "수요일"
+msgstr "水曜日"
 
 msgid "Wednesdays"
-msgstr "수요일"
+msgstr "水曜日"
 
 msgid "Weekdays"
-msgstr "평일"
+msgstr "平日"
 
 msgid "Weekends"
-msgstr "주말"
+msgstr "週末"
 
 msgid "Well done 💪"
-msgstr "잘 했습니다 💪"
+msgstr "よくできました 💪"
 
 msgid "While your Pebble was off wakeup events occurred for:\n"
 msgstr "While your Pebble was off wakeup events occurred for:\n"
@@ -1821,16 +1821,16 @@ msgid "YOU NAPPED"
 msgstr "YOU NAPPED"
 
 msgid "Yes"
-msgstr "예"
+msgstr "はい"
 
 msgid "Yesterday"
-msgstr "어제"
+msgstr "昨日"
 
 msgid "Yesterday, %R"
-msgstr "어제 %R"
+msgstr "昨日 %R"
 
 msgid "Yesterday, %l:%M %p"
-msgstr "어제 %p %l:%M"
+msgstr "昨日 %p %l:%M"
 
 msgid ""
 "You caught some killer zzz’s! You slept for %dH %dM which is %d%% above your "
