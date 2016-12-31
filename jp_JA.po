@@ -242,7 +242,7 @@ msgid ": "
 msgstr ": "
 
 msgid "<Untitled>"
-msgstr "<제목 없음>"
+msgstr "<タイトル無し>"
 
 msgid "A good night's sleep goes a long way! Try to get more hours tonight."
 msgstr "숙면을 취하면 개운합니다! 오늘 밤은 더 자려고 노력해보세요."
@@ -263,10 +263,10 @@ msgid "AVG PACE (/MI)"
 msgstr "平均ペース(/MI)"
 
 msgid "About average"
-msgstr "무난했어요"
+msgstr "だいたい平均"
 
 msgid "About the same"
-msgstr "비슷합니다"
+msgstr "ほぼ同じ"
 
 msgid "Above avg"
 msgstr "平均ペースです"
@@ -275,7 +275,7 @@ msgid "Active"
 msgstr "使用中"
 
 msgid "Active Calories"
-msgstr "Active Calories"
+msgstr "運動カロリーの消耗"
 
 msgid "Activity Summary"
 msgstr "活動分析"
@@ -314,22 +314,22 @@ msgid "Alarms"
 msgstr "アラーム"
 
 msgid "All Day"
-msgstr "종일"
+msgstr "一日中"
 
 msgid "All day"
-msgstr "종일"
+msgstr "一日中"
 
 msgid "Allow All Notifications"
-msgstr "通知 허용"
+msgstr "全ての通知を許可する"
 
 msgid "Allow Phone Calls"
-msgstr "전화 알림 허용"
+msgstr "電話を許可する"
 
 msgid "Allow Phone Calls Only"
-msgstr "전화 알림만 허용"
+msgstr "電話だけを許可する"
 
 msgid "Ambient Sensor"
-msgstr "조도 센서"
+msgstr "照度センサ"
 
 msgid "An hour ago"
 msgstr "一時間前"
@@ -374,22 +374,22 @@ msgid "BT Address"
 msgstr "BTアドレス"
 
 msgid "Back Button"
-msgstr "이전 버튼"
+msgstr "戻るボタン"
 
 msgid "Background App"
-msgstr "백그라운드 앱"
+msgstr "バックグラウンドアプリ"
 
 msgid "Backlight"
-msgstr "백라이트"
+msgstr "バックライト"
 
 msgid "Basic Alarm"
-msgstr "기본 알람"
+msgstr "基本アラーム"
 
 msgid "Blinding"
-msgstr "최대 밝기"
+msgstr "最大の明るさ"
 
 msgid "Bluetooth"
-msgstr "블루투스"
+msgstr "ブルートゥース"
 
 msgid ""
 "Bluetooth on your phone is in a high power state. Please report this using "
@@ -399,22 +399,22 @@ msgstr ""
 "해주세요."
 
 msgid "Bootloader"
-msgstr "부트로더"
+msgstr "ブートローダ"
 
 msgid "Broadcaster"
-msgstr "방송사"
+msgstr "放送局"
 
 msgid "CALORIES"
 msgstr "カロリー"
 
 msgid "CONSISTENT!"
-msgstr "변함없네요!"
+msgstr "変わらないですね！"
 
 msgid "CUSTOM"
-msgstr "맞춤 설정"
+msgstr "カスタム設定"
 
 msgid "Calendar"
-msgstr "달력"
+msgstr "カレンダー"
 
 msgid "Calendar Aware"
 msgstr "일정 방해 금지"
@@ -450,40 +450,40 @@ msgid "Canned messages"
 msgstr "준비된 메세지"
 
 msgid "Center Button"
-msgstr "가운데 버튼"
+msgstr "センターボタン"
 
 msgid "Certification"
-msgstr "인증"
+msgstr "認証"
 
 msgid "Change Days"
-msgstr "날짜 변경"
+msgstr "日付の変更"
 
 msgid "Change Schedule"
-msgstr "스케줄 변경"
+msgstr "スケジュールの変更"
 
 msgid "Change Time"
-msgstr "시간 변경"
+msgstr "時間の変更"
 
 msgid "Charging"
-msgstr "충전중"
+msgstr "充電中"
 
 msgid "Check bluetooth connection"
-msgstr "블루투스 연결 검사"
+msgstr "ブルートゥースの接続を確認する"
 
 msgid "Check something first."
 msgstr "C83/last by A.J"
 
 msgid "Clear All"
-msgstr "모두 삭제"
+msgstr "全ての削除"
 
 msgid "Clear history?"
 msgstr "모두 삭제 하시겠습니까?"
 
 msgid "Completed"
-msgstr "완료됨"
+msgstr "完了しました"
 
 msgid "Confirm Alignment"
-msgstr "정렬 확인"
+msgstr "並べ替えを確認"
 
 msgid ""
 "Congratulations - you're having a super active day! Activity makes you more "
@@ -493,25 +493,25 @@ msgstr ""
 "죠?"
 
 msgid "Connected"
-msgstr "연결됨"
+msgstr "接続済み"
 
 msgid "Connection"
-msgstr "연결"
+msgstr "接続"
 
 msgid "Convert to Basic Alarm"
-msgstr "기본 알람으로 변경"
+msgstr "基本アラームに変換"
 
 msgid "Convert to Smart Alarm"
-msgstr "스마트 알람으로 변경"
+msgstr "スマートアラームに変換"
 
 msgid "Core dump and reboot?"
-msgstr "코어 덤프하고 리부팅 합니까?"
+msgstr "コアダンプとリブートしますか？"
 
 msgid "Custom"
-msgstr "맞춤 설정"
+msgstr "カスタム設定"
 
 msgid "DEEP SLEEP"
-msgstr "숙면"
+msgstr "深い睡眠"
 
 msgid "DISTANCE"
 msgstr "距離"
@@ -523,10 +523,10 @@ msgid "DISTANCE (MI)"
 msgstr "距離(MI)"
 
 msgid "DURATION"
-msgstr "기간"
+msgstr "期間"
 
 msgid "Date & Time"
-msgstr "날짜와 시간"
+msgstr "日付と時刻"
 
 msgid "Dec"
 msgstr "12月"
@@ -535,13 +535,13 @@ msgid "December"
 msgstr "12月"
 
 msgid "Default"
-msgstr "기본값"
+msgstr "デフォルト"
 
 msgid "Delete"
-msgstr "삭제"
+msgstr "削除"
 
 msgid "Deleted"
-msgstr "삭제됨"
+msgstr "削除済み"
 
 msgid "Dictation is not available."
 msgstr "받아쓰기를 사용할 수 없습니다."
@@ -559,7 +559,7 @@ msgid "Disable Airplane Mode to connect."
 msgstr "연결을 위해 비행기 모드 해제"
 
 msgid "Disabled"
-msgstr "꺼짐"
+msgstr "削除"
 
 msgid "Disabled (Plugged In)"
 msgstr "충전 중, 꺼짐"
@@ -571,19 +571,20 @@ msgid "Disconnected"
 msgstr "연결 끊김"
 
 msgid "Dismiss"
-msgstr "삭제"
+msgstr "削除"
 
 msgid "Dismiss All"
-msgstr "모두 삭제"
+msgstr "全てを削除"
 
 msgid "Dismissed"
-msgstr "삭제됨"
+msgstr "削除済み"
 
 msgid "Display"
-msgstr "화면"
+msgstr "画面"
 
 msgid "Distance"
-msgstr "거리"
+msgstr "きょり"
+
 
 msgid "Do you feel more energetic, sharper or optimistic? Being active helps!"
 msgstr "활기차고 명석하며 긍정적이고 싶나요? 움직이세요!"
@@ -595,7 +596,7 @@ msgid "Done"
 msgstr "完了"
 
 msgid "Down Button"
-msgstr "아래 버튼"
+msgstr "下のボタン"
 
 msgid "ENDURANCE"
 msgstr "지구력"
@@ -604,7 +605,7 @@ msgid "EVERY DAY"
 msgstr "毎日"
 
 msgid "Edit"
-msgstr "편집"
+msgstr "編集"
 
 msgid "Emoji"
 msgstr "絵文字"
@@ -613,16 +614,16 @@ msgid "Enable"
 msgstr "使用"
 
 msgid "Enable Pebble Health in the mobile app to track workouts"
-msgstr "경로를 추적하기 위해 폰에서 헬스기능을 사용함으로 설정하세요"
+msgstr "운동을 기록하기 위해 폰에서 페블 헬스를 사용함으로 설정하세요"
 
 msgid "Enable heart rate monitoring in the mobile app"
-msgstr "폰에서 심박기능 모니터 기능을 사용함으로 설정하세요"
+msgstr "폰에서 심박수 모니터 기능을 사용함으로 설정하세요"
 
 msgid "Enabling..."
 msgstr "켜는 중..."
 
 msgid "End"
-msgstr "끝"
+msgstr "終わり"
 
 msgid "End Quiet Time"
 msgstr "방해 금지 해제"
@@ -631,10 +632,10 @@ msgid "End Quiet Time?"
 msgstr "방해 금지 해제?"
 
 msgid "End Workout"
-msgstr "운동 경로 종료"
+msgstr "운동 종료"
 
 msgid "End Workout?"
-msgstr "운동 경로를 종료할까요?"
+msgstr "운동을 종료할까요?"
 
 msgid "Endorphin rush?"
 msgstr "엔돌핀이 솟구칩니까?"
@@ -673,10 +674,10 @@ msgid "Feelin' hot? Cause you're on 🔥"
 msgstr "덥죠? 불 붙었으니 뜨거울 수 밖에요 🔥"
 
 msgid "Filter"
-msgstr "필터"
+msgstr "フィルタ"
 
 msgid "Firmware"
-msgstr "펌웨어"
+msgstr "ファームウェア"
 
 msgid ""
 "For activity and sleep tracking, press up from your watch face.\n"
@@ -692,7 +693,7 @@ msgstr ""
 "더 많은 정보는 blog.pebble.com"
 
 msgid "Forget"
-msgstr "지움"
+msgstr "消去"
 
 msgid "Fri"
 msgstr "金"
@@ -730,21 +731,21 @@ msgstr ""
 msgid ""
 "Goooood morning! You slept for %dH %dM which is %d%% below your typical. Go "
 "crush your day and then get back in bed 😉"
-msgstr "으음.. 평소에 비해 %dH %dM 밖에 자질 못했군요.  좀 더 주무세요 😉"
+msgstr "으음.. %dH %dM 밖에 자질 못했군요. 평소에 비해 %d%% 적어요. 좀 더 주무세요 😉"
 
 msgid ""
 "Groggy? You slept for %dH %dM which is %d%% below your typical. Sleep is "
 "important for everything you do-try getting more shut eye tonight!"
-msgstr "힘들죠? %dH %dM 이면 평소보다 너무 못잤네요. 오늘 밤엔 일찍 주무세요!"
+msgstr "힘들죠? %dH %dM 이면 평소보다 %d%% 적게 잤네요. 오늘 밤엔 일찍 주무세요!"
 
 msgid "H"
 msgstr "H"
 
 msgid "HEART RATE"
-msgstr "심박수"
+msgstr "心拍数"
 
 msgid "Hardware"
-msgstr "하드웨어"
+msgstr "ハードウェア"
 
 msgid "Health"
 msgstr "健康"
@@ -759,8 +760,8 @@ msgid ""
 "Hey rockstar 🎤 You've walked %d steps today which is %d%% above your typical. "
 "Nothing can stop you!"
 msgstr ""
-"Hey rockstar 🎤 You've walked %d steps today which is %d%% above your typical. "
-"Nothing can stop you!"
+"어이 락스타🎤 오늘 %d 걸음을 걸었네요. 평소보다 %d%% 많아요. "
+"누구도 당신을 멈출 수 없어요!"
 
 msgid ""
 "Hey sleepy head. You slept for %dH %dM which is %d%% below your typical. Try to "
@@ -769,7 +770,7 @@ msgstr ""
 "잠꾸러기씨. %dH %dM 자서 평소보다 %d%% 덜 잤습니다. 오늘 밤은 숙면을 취해보세요!"
 
 msgid "Hey speedster, we can barely keep up!"
-msgstr "Hey speedster, we can barely keep up!"
+msgstr "거기 속도광, 간신히 따라왔네요!"
 
 msgid "High"
 msgstr "강하게"
@@ -785,7 +786,7 @@ msgstr ""
 "지하세요!"
 
 msgid "I didn't nap!?"
-msgstr "I didn't nap!?"
+msgstr "낮잠을 안 잤어!?"
 
 msgid "I feel fabulous!"
 msgstr "꽤 좋습니다!"
@@ -800,10 +801,10 @@ msgid "I'm still tired"
 msgstr "여전히 피곤합니다"
 
 msgid "IN %lu H"
-msgstr "%lu시간 후"
+msgstr "%lu時間後"
 
 msgid "IN %lu MIN"
-msgstr "%lu분 후"
+msgstr "%lu分後"
 
 msgid "INTENSITY"
 msgstr "조명 세기"
@@ -824,7 +825,7 @@ msgid "In 15 minutes"
 msgstr "15分以内"
 
 msgid "Incoming Calls"
-msgstr "전화 수신"
+msgstr "수신 전화"
 
 msgid "Incompatible JS"
 msgstr "비호환 자바스크립트"
@@ -913,7 +914,7 @@ msgid ""
 "Let us wake you in your lightest sleep so you're fully refreshed! Smart Alarm "
 "wakes you up to 30min before your alarm."
 msgstr ""
-"얕은 잠에 들었을 때 깨면 기분이 상쾌할 것입니다. 스마트 알람은 설정 시간 30분 전"
+"잠이 가장 얕을 때 깨면 기분이 상쾌할 것입니다. 스마트 알람은 설정 시간 30분 전"
 "부터 울립니다."
 
 msgid "Limit reached."
@@ -1065,7 +1066,7 @@ msgid ""
 "No sleep data,\n"
 "wear your watch\n"
 "to sleep"
-msgstr "수면 정보가 없습니다. 자는 동안 시계를 착용하세요"
+msgstr "수면 기록이 없습니다. 자는 동안 시계를 착용하세요"
 
 msgid "None"
 msgstr "無し"
@@ -1153,7 +1154,7 @@ msgid "Open Pin"
 msgstr "핀 열기"
 
 msgid "Open Workout"
-msgstr "운동 경로 열기"
+msgstr "運動を開始"
 
 msgid "Open favorite apps quickly with a long button press from your watchface."
 msgstr "시계 화면에서 버튼을 길게 눌러 즐겨찾는 앱을 열어보세요"
@@ -1419,7 +1420,7 @@ msgid "Standard - Medium"
 msgstr "표준 - 중간"
 
 msgid "Start"
-msgstr "시작"
+msgstr "開始"
 
 msgid "Start Quiet Time"
 msgstr "방해 금지 설정"
@@ -1437,8 +1438,8 @@ msgid ""
 "Still sweating? Your workout is active and will be ended soon. Open the workout "
 "to keep it going."
 msgstr ""
-"Still sweating? Your workout is active and will be ended soon. Open the workout "
-"to keep it going."
+"아직 땀 흘리고 있나요? 운동이 곧 종료됩니다. 계속하려면 "
+"운동 앱을 여세요
 
 msgid "Stop Sharing Heart Rate"
 msgstr "심박수 공유 정지"
@@ -1456,7 +1457,7 @@ msgid "System"
 msgstr "システム"
 
 msgid "TIMEOUT"
-msgstr "시간초과"
+msgstr "タイムアウト"
 
 msgid "TOMORROW"
 msgstr "明日"
@@ -1465,7 +1466,7 @@ msgid "TYPICAL %s"
 msgstr "평상시 %s"
 
 msgid "Text Size"
-msgstr "글자 크기"
+msgstr "文字サイズ"
 
 msgid "Thanks!"
 msgstr "ありがとう!"
@@ -1486,8 +1487,7 @@ msgid ""
 "This app requires Pebble Health to work. Enable Health in the Pebble mobile app "
 "to continue."
 msgstr ""
-"이 앱은 페블 건강을 필요로 합니다. 스마트폰의 페블 앱에서 건강을 활성화시켜주세"
-"요."
+"이 앱은 페블 헬스를 필요로 합니다. 스마트폰의 페블 앱에서 활성화해주세요."
 
 msgid "This app requires a newer version of the Pebble firmware."
 msgstr "이 앱은 새로운 버전의 페블 펌웨어를 필요로 합니다."
@@ -1527,7 +1527,7 @@ msgid "Timezone Source"
 msgstr "시간대 방식"
 
 msgid "Timing"
-msgstr "타이밍"
+msgstr "タイミング"
 
 msgctxt "TmplStringPlur"
 msgid " d"
@@ -1648,7 +1648,7 @@ msgid "Tomorrow"
 msgstr "明日"
 
 msgid "Track your steps, sleep, and more! Enable Pebble Health in the mobile app."
-msgstr "걸음 수, 잠 등등! 스마트폰 페블 앱에서 건강 기능을 활성화하세요"
+msgstr "걸음 수, 수면 등을 기록하세요! 스마트폰 앱에서 페블 헬스를 활성화하세요"
 
 msgid "Tue"
 msgstr "火"
@@ -1660,13 +1660,13 @@ msgid "Tuesdays"
 msgstr "火曜日"
 
 msgid "Turn Off Airplane Mode?"
-msgstr "비행기 모드를 해제합니까?"
+msgstr "機内モードをオフにしてますか？"
 
 msgid "Turn Off Motion Backlight?"
 msgstr "모션 백라이트를 끌까요?"
 
 msgid "Turn On Airplane Mode?"
-msgstr "비행기 모드로 전환할까요?"
+msgstr "機内モードをオンにしてますか？"
 
 msgid "Turn On Motion Backlight?"
 msgstr "모션 백라이트를 켤까요?"
@@ -1684,13 +1684,13 @@ msgid ""
 "Unable to connect. Your weather data may be out of date; try checking the "
 "connection on your phone."
 msgstr ""
-"연결할 수 없습니다. 날씨 정보가 오래됐을 수 있으니 폰에서 연결을 확인해 보세요"
+"연결할 수 없습니다. 날씨 정보가 만료되었습니다. 폰에서 연결을 확인해 보세요"
 
 msgid "Unknown"
-msgstr "알 수 없음"
+msgstr "不明"
 
 msgid "Up Button"
-msgstr "위 버튼"
+msgstr "上のボタン"
 
 msgid ""
 "Up/Down to adjust\n"
@@ -1698,31 +1698,31 @@ msgid ""
 msgstr "아래/위 버튼을 눌러 조정하고 선택 버튼을 눌러 다음으로 진행하세요"
 
 msgid "Update Complete"
-msgstr "업데이트 성공"
+msgstr "アップデート成功"
 
 msgid "Update Failed"
-msgstr "업데이트 실패"
+msgstr "アップデート失敗"
 
 msgid "Uptime"
-msgstr "사용시간"
+msgstr "使用時間"
 
 msgid "Vertical Alignment"
 msgstr "수직 정렬"
 
 msgid "Vibration"
-msgstr "진동"
+msgstr "振動"
 
 msgid "Vibrations"
-msgstr "진동"
+msgstr "振動"
 
 msgid "Voice"
-msgstr "음성"
+msgstr "音声"
 
 msgid "WEEKDAYS"
-msgstr "주중"
+msgstr "平日"
 
 msgid "WEEKENDS"
-msgstr "주말"
+msgstr "週末"
 
 msgid "Wake up between"
 msgstr "다음 시간에 깨움"
@@ -1731,19 +1731,19 @@ msgid "Wake up interval"
 msgstr "깨우기 간격"
 
 msgid "Walk"
-msgstr "산책"
+msgstr "歩く"
 
 msgid ""
 "Walk\n"
 "Detected"
-msgstr "산책 감지됨"
+msgstr "歩き確認"
 
 msgid ""
 "Wanna know more about you? Track your activity and sleep with Pebble Health."
-msgstr "자신을 더 잘 알고 싶나요? 페블 건강으로 활동과 수면을 추적해보세요."
+msgstr "자신을 더 잘 알고 싶나요? 페블 헬스와 함께 활동과 수면을 추적해보세요."
 
 msgid "Watchfaces"
-msgstr "시계 화면"
+msgstr "時計の画面"
 
 msgid "Way to keep it active!"
 msgstr "활동적인 삶을 유지하세요!"
@@ -1755,11 +1755,11 @@ msgid ""
 "We can barely keep up! You walked %d steps today which is %d%% above your "
 "typical. You're on 🔥"
 msgstr ""
-"We can barely keep up! You walked %d steps today which is %d%% above your "
-"typical. You're on 🔥"
+"간신히 따라왔어요! 오늘 %d 걸음을 걸었어요. 평소보다 %d%%나 많아요. "
+"🔥불타오르고 있군요!"
 
 msgid "We'll get there!"
-msgstr "We'll get there!"
+msgstr "まもなく到着します！"
 
 msgid ""
 "Wear your watch snug and 2 fingers' width above your wrist bone for best results."
@@ -1767,7 +1767,7 @@ msgstr ""
 "최상의 결과를 위해 손목 뼈에서 두 마디 위에 꼭 맞게 착용하세요."
 
 msgid "Weather"
-msgstr "날씨"
+msgstr "天気"
 
 msgid "Wed"
 msgstr "水"
@@ -1798,10 +1798,10 @@ msgstr ""
 "페블 헬스를 통해 확인해보세요."
 
 msgid "Workin' up a sweat?"
-msgstr "Workin' up a sweat?"
+msgstr "汗が出てますか？"
 
 msgid "Workout"
-msgstr "운동"
+msgstr "運動"
 
 msgid ""
 "Workout\n"
@@ -1814,11 +1814,11 @@ msgid ""
 "Workout\n"
 "Ended"
 msgstr ""
-"운동이\n"
-"끝났습니다."
+"運動が\n"
+"終わりました"
 
 msgid "YOU NAPPED"
-msgstr "YOU NAPPED"
+msgstr "少し眠ってね"
 
 msgid "Yes"
 msgstr "はい"
@@ -1840,7 +1840,7 @@ msgstr ""
 "아주 좋아요."
 
 msgid "You got the moves!"
-msgstr "You got the moves!"
+msgstr "やっと動きましたね！"
 
 msgid "You had a good night! Feel the energy 😃"
 msgstr "꿀잠을 주무셨군요! 에너지를 느껴보세요 😃"
@@ -1899,7 +1899,7 @@ msgid ""
 "active tomorrow–you can do it!"
 msgstr ""
 "오늘은 평소보다 %d%% 덜 걸어 %d 보 걸었습니다. 내일은 좀 더 활동적으로 되어보세"
-"요-할 수 있습니다!"
+"요. 할 수 있습니다!"
 
 msgid ""
 "You walked %d steps today. Don't fret, you can get back on track in no time 😉"
@@ -1920,8 +1920,8 @@ msgid ""
 "You walked %d steps today; keep it up! Being active is the key to feeling like a "
 "million bucks. Try to beat your typical tomorrow."
 msgstr ""
-"오늘은 %d 걸음을 걸었습니다.; 계속 열심히 해주세요!  Being active is the key to "
-"feeling like a million bucks. Try to beat your typical tomorrow."
+"오늘은 %d 걸음을 걸었습니다.; 계속 열심히 해주세요!  활기찬 생활은 부자가 된 기분을"
+"느끼게 해주죠. 내일은 평소보다 더 많이 걸어보세요!"
 
 msgid ""
 "You walked %d steps which is %d%% below your typical, but don't stress. You'll "
@@ -1934,14 +1934,14 @@ msgid ""
 "You walked %d steps which is %d%% below your typical. Being active makes you "
 "feel amaaaazing–try to get back on track tomorrow."
 msgstr ""
-"평소보다  %d%% 많은 %d 걸음을 걸었습니다. 활발함은 당신을 기부우우운 좋게 만들어"
-"줍니다 내일도 트랙에 도전해보세요."
+"평소보다 %d%% 많은 %d 걸음을 걸었습니다. 활발함은 당신을 기부우우운 좋게 만들어"
+"줍니다. 내일도 기록에 도전해보세요."
 
 msgid "You're a machine!"
-msgstr "터미네이터 같군요!"
+msgstr "まるでロボットみたい!"
 
 msgid "You're all set"
-msgstr "설정이 끝났습니다"
+msgstr "設定が完了しま"
 
 msgid "You're being consistent and that's important, keep at it!"
 msgstr "지금처럼 꾸준히 하는 것이 중요합니다, 힘내세요!"
@@ -1950,7 +1950,7 @@ msgid ""
 "You're rockin' the shut eye! You slept for %dH %dM. Make it a nightly ritual. "
 "You deserve it."
 msgstr ""
-"눈을 꼭 감고 %dH %dM 동안 잤군요. 매일 밤 습관으로 만드세요. "
+"눈을 꼭 감고 %dH %dM 동안 잠들었군요. 매일 밤 습관으로 만드세요. "
 "그럴 만한 자격이 있어요."
 
 msgid ""
@@ -1979,31 +1979,31 @@ msgid "sent an attachment"
 msgstr "첨부파일 발송됨"
 
 msgid "the day after tomorrow"
-msgstr "내일 모레"
+msgstr "明後日"
 
 msgid "the foreseeable future"
-msgstr "가까운 미래"
+msgstr "近い将来"
 
 msgid "this afternoon"
-msgstr "오늘 오후"
+msgstr "今日の午後"
 
 msgid "this evening"
 msgstr "오늘 저녁"
 
 msgid "this morning"
-msgstr "오늘 이른 오전"
+msgstr "今朝"
 
 msgid "tomorrow afternoon"
-msgstr "내일 오후"
+msgstr "明日の午後"
 
 msgid "tomorrow evening"
 msgstr "내일 저녁"
 
 msgid "tomorrow morning"
-msgstr "내일 아침"
+msgstr "明日の朝"
 
 msgid "tomorrow night"
-msgstr "내일 밤"
+msgstr "明日の夜"
 
 msgid "tonight"
-msgstr "오늘 밤"
+msgstr "今夜"
